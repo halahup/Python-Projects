@@ -17,7 +17,7 @@ class ImdbCrawler(object):
             Requests data from imdb list and stores in self.movie_info
         """
         # request for pages in the list
-        for i in range(1, 8001, 100):
+        for i in range(1, 9901, 100):
 
 
             try:
