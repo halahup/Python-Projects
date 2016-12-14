@@ -1,7 +1,7 @@
 import urllib.request
 from bs4 import BeautifulSoup
 import re
-
+import csv
 
 class Crawler:
 
@@ -10,12 +10,13 @@ class Crawler:
         self.state = state
         self.url = "https://www.walkscore.com/apartments/featured/" + state + "/" + city
         self.soup = None
+        self.data = None
 
     def crawl(self):
 
-        data = list()
+        self.data = list()
 
-        for page in range(1, 32):
+        for page in range(1, 2):
 
             # request the page
             if page == 1:
@@ -63,15 +64,24 @@ class Crawler:
 
                 entry = {"name": name, "price": price, "walkscore": walkscore}
 
-                data.append(entry)
+                self.data.append(entry)
+        # print(self.data)
 
-        print(data)
+    def save_csv(self):
+        with open("Austin.csv", "w", newline='') as csvfile:
+            writer = csv.writer(csvfile)
 
+            for entry in self.data:
+                data = [entry["name"], entry["price"], entry["walkscore"]]
+                writer.writerow(data)
+
+            # spamwriter.writerow(['Spam', 'Lovely Spam', 'Wonderful Spam'])
 
 def main():
 
     crawler = Crawler("Austin", "TX")
     crawler.crawl()
+    crawler.save_csv()
 
     pass
 
