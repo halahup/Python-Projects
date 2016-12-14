@@ -2,6 +2,8 @@ import urllib.request
 from bs4 import BeautifulSoup
 import re
 import csv
+import sys
+
 
 class Crawler:
 
@@ -12,11 +14,25 @@ class Crawler:
         self.soup = None
         self.data = None
 
+    @staticmethod
+    def get_list_of_cities():
+        request = urllib.request.urlopen("https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population")
+        soup = BeautifulSoup(request.read(), "html.parser")
+        cities = soup.find_all("table")[3].find_all("td", attrs={"align": "left"})
+
+        for i in range(0, 608, 2):
+            city = cities[i].text.lstrip()
+            # state = cities[i+1].text.lstrip()
+            print(city)
+
     def crawl(self):
+
+        # header
+        print("city: {}, state: {}".format(self.city.upper(), self.state))
 
         self.data = list()
 
-        for page in range(1, 2):
+        for page in range(1, 32):
 
             # request the page
             if page == 1:
@@ -65,25 +81,30 @@ class Crawler:
                 entry = {"name": name, "price": price, "walkscore": walkscore}
 
                 self.data.append(entry)
-        # print(self.data)
 
     def save_csv(self):
-        with open("Austin.csv", "w", newline='') as csvfile:
+        with open("{}_{}.csv".format(self.city.upper(), self.state), "w", newline='') as csvfile:
             writer = csv.writer(csvfile)
 
             for entry in self.data:
                 data = [entry["name"], entry["price"], entry["walkscore"]]
                 writer.writerow(data)
 
-            # spamwriter.writerow(['Spam', 'Lovely Spam', 'Wonderful Spam'])
+        print("Data written to CSV")
 
 def main():
 
-    crawler = Crawler("Austin", "TX")
+    # call: python3 crawler.py Austin, TX
+    assert len(sys.argv) == 3
+
+    # initialize the crawler
+    crawler = Crawler(sys.argv[1], sys.argv[2])
+
+    # launch
     crawler.crawl()
     crawler.save_csv()
 
-    pass
+    # Crawler.get_list_of_cities()
 
 
 if __name__ == "__main__":
