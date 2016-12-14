@@ -94,7 +94,8 @@ class Crawler:
 
 def main():
 
-    # call: python3 crawler.py Austin, TX
+    # call 1 word city: python3 crawler.py Austin, TX
+    # call 2 word cities: python3 crawler.py New_York, NY
     assert len(sys.argv) == 3
 
     # initialize the crawler
