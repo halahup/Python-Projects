@@ -29,8 +29,6 @@ class Crawler:
 
     def crawl(self):
 
-        # TODO: scrap the number of bedrooms
-
         # header
         print("city: {}, state: {}".format(self.city.upper(), self.state.upper()))
 
@@ -46,6 +44,7 @@ class Crawler:
                 else:
                     request = urllib.request.urlopen(self.url + "/p" + str(page))
 
+                # feedback for the user
                 print("PROCESSING PAGE ", page)
 
                 # parse the page
@@ -54,10 +53,10 @@ class Crawler:
                 # listings on the page
                 listings = self.soup.find_all("div", attrs={"class": "listing-wrap"})
 
+                # make sure we haven't reached the end of the pages
                 assert len(listings) != 0
 
-                # print(listings)
-
+                # for every listing
                 for listing in listings:
 
                     # price
@@ -67,9 +66,11 @@ class Crawler:
                     if "Contact" in price_html[0].text:
                         price = "N/A"
 
+                    # also if the price field doesn't include "from" - just strip
                     elif "from" not in price_html[0].text and "Contact" not in price_html[0].text:
                         price = listing.find_all("div", attrs={"class": "price"})[0].text.lstrip().rstrip()
 
+                    # if there is "from" - cut the string and strip
                     else:
                         price = listing.find_all("div", attrs={"class": "price"})[0].text[7:].rstrip()
 
@@ -90,20 +91,25 @@ class Crawler:
                         beds = listing.find_all("div", attrs={"class": "beds"})[0].text.lstrip().rstrip()
 
                     except IndexError:
-                        print("Error")
+                        beds = "N/A"
 
+                    # create the data frame
                     entry = {"name": name, "price": price, "walkscore": walkscore, "beds": beds}
 
+                    # append the entries to the list
                     self.data.append(entry)
 
             # reached the end of the pages
             except AssertionError:
+
+                # feedback
                 print("{} pages has been scraped for {}".format(page, self.city.upper()))
 
                 # save the CSV
                 self.save_csv()
                 return
 
+            # no such page on the walkscore.com
             except urllib.error.HTTPError:
                 print("No such city on walkscore.com or city/state is misspelled")
                 return
@@ -114,11 +120,16 @@ class Crawler:
         """
         with open("{}_{}.csv".format(self.city.upper(), self.state.upper()), "w", newline='') as csvfile:
             writer = csv.writer(csvfile)
+
+            # header
             writer.writerow(["Name", "Price", "Walkscore", "Beds"])
+
+            # write the data
             for entry in self.data:
                 data = [entry["name"], entry["price"], entry["walkscore"], entry["beds"]]
                 writer.writerow(data)
 
+        # feedback
         print("Data written to CSV")
 
 
@@ -133,9 +144,6 @@ def main():
 
     # launch
     crawler.crawl()
-
-    # Crawler.get_list_of_cities()
-
 
 if __name__ == "__main__":
     main()
