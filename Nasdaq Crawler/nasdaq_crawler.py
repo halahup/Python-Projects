@@ -3,6 +3,7 @@ import urllib
 import re
 import datetime
 import math
+import csv
 
 
 class Issue(object):
@@ -283,26 +284,41 @@ def main():
     print "========================================================================================" + \
           "===================================================="
 
-    for index, issue in enumerate(issues):
+    with open("{}.csv".format(DividendCrawler.prepare_date()), "w") as csvfile:
+        writer = csv.writer(csvfile)
 
-        # Some issues don't have price to them so we return 0 from the price fetching method
-        # To avoid the zero division error we use try except statement
-        try:
-            one_day_yield = math.ceil((float(dividend_candidates[index].dividend_per_share) /
-                                       float(dividend_candidates[index].price.replace('$', '')) * 100) * 100) / 100
-        except ZeroDivisionError:
-            one_day_yield = "N/A"
+        # header
+        writer.writerow(["name", "today_high", "today_low", "today_volume", "52_wk_volume", "52_wk_high", "52_wk_low",
+                         "market_cap", "beta", "dividend_per_share", "one_day_yield"])
 
-        # print the data
-        print "{0:^6} {1:^15} {2:^10} {3:^13} {4:^15} {5:^12} {6:^12} {8:^5} {9:^9} {10:^15} {7:^20}".\
-            format(issue.name, issue.today_high, issue.today_low, issue.volume,
-                   issue.fifty_two_vol, issue.fifty_high, issue.fifty_low,
-                   issue.market_cap, issue.beta,
-                   dividend_candidates[index].dividend_per_share,
-                   one_day_yield)
+        for index, issue in enumerate(issues):
+
+            # Some issues don't have price to them so we return 0 from the price fetching method
+            # To avoid the zero division error we use try except statement
+            try:
+                one_day_yield = math.ceil((float(dividend_candidates[index].dividend_per_share) /
+                                           float(dividend_candidates[index].price.replace('$', '')) * 100) * 100) / 100
+            except ZeroDivisionError:
+                one_day_yield = "N/A"
+
+            # print the data
+            print "{0:^6} {1:^15} {2:^10} {3:^13} {4:^15} {5:^12} {6:^12} {8:^5} {9:^9} {10:^15} {7:^20}".\
+                format(issue.name, issue.today_high, issue.today_low, issue.volume,
+                       issue.fifty_two_vol, issue.fifty_high, issue.fifty_low,
+                       issue.market_cap, issue.beta,
+                       dividend_candidates[index].dividend_per_share,
+                       one_day_yield)
+
+            # write the csv file
+            data = [issue.name, issue.today_high, issue.today_low, issue.volume, issue.fifty_two_vol,
+                    issue.fifty_high, issue.fifty_low, issue.market_cap, issue.beta,
+                    dividend_candidates[index].dividend_per_share, one_day_yield]
+            writer.writerow(data)
+
+    # feedback
+    print("Data written to CSV")
 
     # TODO: Calculate the 52 wk Spread between 52 wk high and 52 wk low
-
     return 0
 
 if __name__ == "__main__":
