@@ -279,7 +279,7 @@ def main():
 
     # print the data
     print "TICKER | Today High | Today Low | Today Volume | 52 wk Volume | 52 wk High | 52 wk Low |" + \
-          " Beta | Dividend | One Day Yield | Market Capacity |"
+          " Beta | Dividend | One Day Yield | Market Capital. |"
 
     print "========================================================================================" + \
           "===================================================="
