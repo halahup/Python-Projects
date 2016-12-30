@@ -182,9 +182,7 @@ class DividendCrawler(object):
         """
         # Create request object
         request = urllib.urlopen(self._link_address + DividendCrawler.prepare_date(date_shift))
-
         print "Fetching : {}".format(self._link_address + DividendCrawler.prepare_date(date_shift))
-
         soup = BeautifulSoup(request.read(), 'html.parser')
 
         # define the lists
@@ -301,11 +299,6 @@ def main():
     crawler = NasdaqCrawler(list_of_tickers)
     issues = crawler.fetch_data()
 
-
-
-
-
-
     # print the date
     print "###################################"
     print "| Ex-Dividend Date: ", DividendCrawler.prepare_date(date_shift - 1), " |"
@@ -318,7 +311,7 @@ def main():
     print "========================================================================================" + \
           "===================================================="
 
-    with open("{}.csv".format(DividendCrawler.prepare_date()), "w") as csvfile:
+    with open("{}.csv".format(DividendCrawler.prepare_date(date_shift - 1)), "w") as csvfile:
         writer = csv.writer(csvfile)
 
         # header
