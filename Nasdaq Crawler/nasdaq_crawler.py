@@ -130,37 +130,61 @@ class DividendCrawler(object):
     _link_address = "http://www.nasdaq.com/dividend-stocks/dividend-calendar.aspx?date="
 
     @staticmethod
-    def prepare_date():
-
+    def prepare_date(date_shift=0):
         """
             Takes current date and modifies the day to be of the next date, ex-dividend date
 
+            Args:
+                date_shift: shift for the date
             Returns:
                 current date + 1 in string format
         """
-
         # get the current date
         current_year = datetime.datetime.now().date().year
         current_month = datetime.datetime.now().date().month
 
-        # add 1 to the day of the date
-        target_ex_dividend_day = datetime.datetime.now().date().day + 1
+        # 30 vs 31 day months
+        if current_month % 2 == 1:
+            mod = 30
+        else:
+            mod = 31
+
+        # if over the weekend the date goes over the month
+        if datetime.datetime.now().date().day + 1 + date_shift > mod:
+
+            # add the shift to the date and jump to the next month
+            target_ex_dividend_day = (datetime.datetime.now().date().day + 1 + date_shift) % mod
+            current_month = (datetime.datetime.now().date().month + 1) % 12
+
+            # if the month rolls over to the next year
+            if datetime.datetime.now().date().month + 1 > 12:
+
+                # increment the year
+                current_year += 1
+
+        # the date didn't go over the month
+        else:
+            target_ex_dividend_day = datetime.datetime.now().date().day + 1
 
         # return the next day date in string format
         return datetime.date(year=current_year, month=current_month, day=target_ex_dividend_day).strftime("%Y-%b-%d")
 
-    def fetch_dividend_schedule_data(self):
-
+    def fetch_dividend_schedule_data(self, date_shift=0):
         """
             Fetches data from 'http://www.nasdaq.com/dividend-stocks/dividend-calendar.aspx?date='
             with appended date specified as a next day from the request
 
+            Args:
+                date_shift: a shift for date for cases like request for saturday ex-dividend date
+
             Returns:
                 A list of Issue objects
         """
-
         # Create request object
-        request = urllib.urlopen(self._link_address + DividendCrawler.prepare_date())
+        request = urllib.urlopen(self._link_address + DividendCrawler.prepare_date(date_shift))
+
+        print "Fetching : {}".format(self._link_address + DividendCrawler.prepare_date(date_shift))
+
         soup = BeautifulSoup(request.read(), 'html.parser')
 
         # define the lists
@@ -218,7 +242,6 @@ class DividendCrawler(object):
             Returns:
                 ticker; i.e. FB
         """
-
         index = issue_name.find("(") + 1
         issue_name_list = list(issue_name)
         issue_name_list[index - 1] = " "
@@ -233,7 +256,6 @@ class DividendCrawler(object):
 
     @staticmethod
     def fetch_price_of_issue(issue_name):
-
         """
             Fetches the price of the desired issue
             Args:
@@ -241,7 +263,6 @@ class DividendCrawler(object):
             Returns:
                 price of the issue as string
         """
-
         # extract the ticker
         ticker = DividendCrawler.extract_ticker(issue_name)
 
@@ -259,10 +280,18 @@ class DividendCrawler(object):
 
 def main():
 
+    date_shift = 0
+
     # Instantiate the dividend schedule crawler and fetch the schedule for tomorrow
     dividend_crawler = DividendCrawler()
-    dividend_candidates = dividend_crawler.fetch_dividend_schedule_data()
+    dividend_candidates = []
 
+    # if the candidates list is empty -> add 1 to the date
+    while len(dividend_candidates) == 0:
+        dividend_candidates = dividend_crawler.fetch_dividend_schedule_data(date_shift)
+        date_shift += 1
+
+    # if the candidates list is not empty
     # get the list of tickers from the schedule
     list_of_tickers = list()
     for issue in dividend_candidates:
@@ -272,9 +301,14 @@ def main():
     crawler = NasdaqCrawler(list_of_tickers)
     issues = crawler.fetch_data()
 
+
+
+
+
+
     # print the date
     print "###################################"
-    print "| Ex-Dividend Date: ", DividendCrawler.prepare_date(), " |"
+    print "| Ex-Dividend Date: ", DividendCrawler.prepare_date(date_shift - 1), " |"
     print "###################################"
 
     # print the data
