@@ -1,3 +1,5 @@
+#!/usr/local/bin/python2
+
 from bs4 import BeautifulSoup
 import urllib
 import re
@@ -164,7 +166,7 @@ class DividendCrawler(object):
 
         # the date didn't go over the month
         else:
-            target_ex_dividend_day = datetime.datetime.now().date().day + 1
+            target_ex_dividend_day = datetime.datetime.now().date().day + 1 + date_shift
 
         # return the next day date in string format
         return datetime.date(year=current_year, month=current_month, day=target_ex_dividend_day).strftime("%Y-%b-%d")
