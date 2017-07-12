@@ -16,6 +16,7 @@ def main():
     test_image_face_encodings = face_encodings(test_image)
     print("Found {} faces".format(len(test_image_face_encodings)))
 
+    # data entries are going here
     names = [
         "Dan Sharp",
         "James Arnoldi",
@@ -27,7 +28,7 @@ def main():
         "Tyler Zupan"
     ]
 
-    # read the known images
+    # read the known images - data warehouse
     alan = r("./Mugshots/Alan Spohn.jpg", mode='RGB')
     dan = r("./Mugshots/Dan Sharp.jpg", mode='RGB')
     james = r("./Mugshots/James Arnoldi.jpg", mode='RGB')
@@ -37,6 +38,7 @@ def main():
     suman = r("./Mugshots/Suman Biswas.jpg", mode='RGB')
     tyler = r("./Mugshots/Tyler Zupan.jpg", mode='RGB')
 
+    # encode the images
     alan_enc = face_encodings(alan)[0]
     dan_enc = face_encodings(dan)[0]
     james_enc = face_encodings(james)[0]
