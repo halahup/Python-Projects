@@ -58,21 +58,14 @@ def main():
         tyler_enc
     ]
 
-    # compare the distances
-    # take the first person from the photo - I assume it goes from left to right
-    results = compare_faces(known_images, test_image_face_encodings[2])
+    # for every face found on the photo, run the comparison
+    for i, enc in enumerate(test_image_face_encodings):
 
-    index = 0
-    roll = 0
-    for i, b in enumerate(results):
-        if b:
-            roll += 1
-            index = i
+        results = compare_faces(known_images, enc)
 
-    if roll > 0:
-        print("People identified: {}".format(names[index]))
-    else:
-        print("No one identified")
+        if True in results:
+            print("Match Found at index: {}".format(i))
+            print(names[results.index(True)])
 
     return 0
 
