@@ -1,0 +1,736 @@
+,school_name,address,score,district,grade,lat,long
+0,Gullett Elementary School,"6310 Treadwell Boulevard, Austin, TX 78757",10,Public district,PK-5,30.3436469,-97.7487409
+1,Kiker Elementary School,"5913 La Crosse Avenue, Austin, TX 78739",10,Public district,PK-5,30.1915485,-97.8815239
+2,Mills Elementary School,"6201 Davis Lane, Austin, TX 78749",10,Public district,PK-5,30.210955,-97.8783687
+3,Hill Country Middle School,"1300 Walsh Tarlton Lane, Austin, TX 78746",10,Public district,8-Jun,30.2710171,-97.8037332
+4,Valley View Elementary School,"1201 Texas 360 Loop, Austin, TX 78746",10,Public district,K-5,30.3162046,-97.8252176
+5,Forest Trail Elementary School,"1203 Texas 360 Loop, Austin, TX 78746",10,Public district,K-5,30.3162155,-97.8252069
+6,Bridge Point El,"6401 Cedar Street, Austin, TX 78746",10,Public district,K-5,30.3408667,-97.8063885
+7,Barton Creek Elementary School,"1370 Patterson Road, Austin, TX 78733",10,Public district,K-5,30.303408,-97.879581
+8,Kathy Caraway Elementary School,"11104 Oak View Drive, Austin, TX 78759",10,Public district,PK-5,30.4196628,-97.7695241
+9,Spicewood Elementary School,"11601 Olson Drive, Austin, TX 78750",10,Public district,K-5,30.4450525,-97.8042278
+10,Cedar Valley Middle School,"8139 Racine Trail, Austin, TX 78717",10,Public district,8-Jun,30.4926195,-97.7345892
+11,Canyon Vista Middle School,"8455 Spicewood Springs Road, Austin, TX 78759",10,Public district,8-Jun,30.4283538,-97.7842862
+12,Laurel Mountain Elementary School,"10111 D-K Ranch Road, Austin, TX 78759",10,Public district,PK-5,30.4139376,-97.7809036
+13,Canyon Creek Elementary School,"10210 Ember Glen Drive, Austin, TX 78726",10,Public district,PK-5,30.4366032,-97.8242446
+14,Patsy Sommer Elementary School,"16200 Avery Ranch Boulevard, Austin, TX 78717",10,Public district,PK-5,30.504527,-97.752023
+15,Lake Pointe Elementary School,"3322 Ranch Road 620 South, Austin, TX 78738",10,Public district,PK-5,30.3278393,-97.9653625
+16,Clayton Elementary School,"7525 La Crosse Avenue, Austin, TX 78739",10,Public district,PK-5,30.1948537,-97.9063349
+17,Rutledge Elementary School,"11501 Staked Plains Drive, Austin, TX 78717",10,Public district,PK-5,30.4977332,-97.7942181
+18,Richards School For Young Women Leade,"2206 Prather Lane, Austin, TX 78704",10,Public district,12-Jun,30.236442,-97.788284
+19,Lasa High School,"7309 Lazy Creek Drive, Austin, TX 78724",10,Public district,12-Sep,30.313495,-97.6566673
+20,River Ridge Elementary School,"12900 Tierra Grande Trail, Austin, TX 78732",10,Public district,PK-5,30.346264,-97.9177007
+21,West Cypress Hills Elementary School,"3322 Ranch Road 620 South, Austin, TX 78738",10,Public district,PK-5,30.3278393,-97.9653625
+22,Nyos Charter School,"12301 North Lamar Boulevard, Austin, TX 78753",9,Public charter,12-Apr,30.4021781,-97.6784506
+23,Chaparral Star Academy,"14046 Summit Drive, Austin, TX 78728",9,Public charter,K-12,30.4378201,-97.6918944
+24,Blackshear Elementary School,"1712 East 11th Street, Austin, TX 78702",9,Public district,PK-5,30.2669672,-97.7221685
+25,Casis Elementary School,"2710 Exposition Boulevard, Austin, TX 78703",9,Public district,PK-5,30.303796,-97.764925
+26,Graham Elementary School,"11211 Tom Adams Drive, Austin, TX 78753",9,Public district,PK-5,30.372361,-97.668859
+27,Hill Elementary School,"8601 Tallwood Drive, Austin, TX 78759",9,Public district,PK-5,30.3766434,-97.7486864
+28,Zilker Elementary School,"1900 Bluebonnet Lane, Austin, TX 78704",9,Public district,PK-6,30.2527068,-97.7745895
+29,Cedar Creek Elementary School,"3301 Pinnacle Road, Austin, TX 78746",9,Public district,K-5,30.2691605,-97.8048688
+30,West Ridge Middle School,"9201 Scenic Bluff Drive, Austin, TX 78733",9,Public district,8-Jun,30.3028642,-97.8843353
+31,Lakeway Elementary School,"3322 Ranch Road 620 South, Austin, TX 78738",9,Public district,PK-5,30.3278393,-97.9653625
+32,Steiner Ranch Elementary School,"4001 North Quinlan Park Road, Austin, TX 78732",9,Public district,PK-5,30.3795175,-97.8840673
+33,Westwood High School,"12400 Mellow Meadow Drive, Austin, TX 78750",9,Public district,12-Sep,30.4563207,-97.7976957
+34,Canyon Ridge Middle School,"12601 Country Trails Lane, Austin, TX 78732",9,Public district,8-Jun,30.3653346,-97.9030519
+35,Baranoff Elementary School,"12009 Buckingham Gate Road, Austin, TX 78748",9,Public district,PK-5,30.1532345,-97.8527474
+36,Laura Welch Bush Elementary School,"12600 Country Trails Lane, Austin, TX 78732",9,Public district,PK-5,30.3660552,-97.9001808
+37,Cowan Elementary School,"2817 Kentish Drive, Austin, TX 78748",9,Public district,PK-5,30.1887423,-97.833375
+38,Hudson Bend Middle School,"3322 Ranch Road 620 South, Austin, TX 78738",9,Public district,8-Jun,30.3278393,-97.9653625
+39,Gorzycki Middle School,"7412 West Slaughter Lane, Austin, TX 78749",9,Public district,8-Jun,30.2146625,-97.8919935
+40,Blazier Elementary School,"8601 Nuckols Crossing Road, Austin, TX 78744",9,Public district,PK-5,30.1577505,-97.765195
+41,Baldwin Elementary School,"12200 Meridian Park Boulevard, Austin, TX 78739",9,Public district,PK-5,30.1847141,-97.9233708
+42,River Place Elementary School,"6500 Sitio Del Rio Boulevard, Austin, TX 78730",9,Public district,PK-5,30.3896441,-97.8450267
+43,Elsa England Elementary School,"8801 Pearson Ranch Road, Austin, TX 78717",9,Public district,PK-5,30.4936908,-97.7507244
+44,Anderson High School,"8403 Mesa Drive, Austin, TX 78759",8,Public district,12-Sep,30.3757495,-97.7537059
+45,Barton Hills Elementary School,"2108 Barton Hills Drive, Austin, TX 78704",8,Public district,PK-6,30.254457,-97.7832967
+46,Bryker Woods Elementary School,"3309 Kerbey Lane, Austin, TX 78703",8,Public district,PK-6,30.304869,-97.750627
+47,Doss Elementary School,"7005 Northledge Drive, Austin, TX 78731",8,Public district,K-5,30.3562139,-97.7627582
+48,Highland Park Elementary School,"4900 Fairview Drive, Austin, TX 78731",8,Public district,PK-5,30.3305646,-97.7593303
+49,Lee Elementary School,"3308 Hampton Road, Austin, TX 78705",8,Public district,PK-6,30.2931547,-97.727193
+50,Mathews Elementary School,"906 West Lynn Street, Austin, TX 78703",8,Public district,PK-6,30.278216,-97.760795
+51,St Elmo El,"600 West Saint Elmo Road, Austin, TX 78745",8,Public district,PK-5,30.2219257,-97.7735079
+52,Patton Elementary School,"6001 Westcreek Drive, Austin, TX 78749",8,Public district,PK-5,30.2317997,-97.8455255
+53,Bowie High School,"4103 West Slaughter Lane, Austin, TX 78749",8,Public district,12-Sep,30.1876535,-97.8584973
+54,Westlake High School,"4100 Westbank Drive, Austin, TX 78746",8,Public district,12-Sep,30.2756783,-97.8137323
+55,Lake Travis Elementary School,"3322 Ranch Road 620 South, Austin, TX 78738",8,Public district,PK-5,30.3278393,-97.9653625
+56,Pond Springs Elementary School,"7825 Elkhorn Mountain Trail, Austin, TX 78729",8,Public district,PK-5,30.4461527,-97.7642244
+57,Bee Cave Elementary School,"14300 Hamilton Pool Rd, Austin, TX 78738",8,Public district,PK-5,30.3086635,-97.9687726
+58,Guerrero Thompson,"102 East Rundberg Lane, Austin, TX 78753",8,Public district,PK-5,30.3638869,-97.6916658
+59,Serene Hills Elementary School,"3322 Ranch Road 620 South, Austin, TX 78738",8,Public district,PK-5,30.3278393,-97.9653625
+60,Harmony School of Political Science and Communication - Austin,"13415 North FM 620, Austin, TX 78717",8,Public charter,K-12,30.4728614,-97.7801655
+61,Vandegrift High School,"9500 McNeil Drive, Austin, TX 78750",8,Public district,12-Sep,30.397078,-97.8241043
+62,Four Points Middle School,"9700 McNeil Drive, Austin, TX 78750",8,Public district,8-Jun,30.3974994,-97.8292543
+63,KIPP Austin Obras,"5107 South Interstate 35 Frontage Road, Austin, TX 78744",8,Public charter,K-4,30.2044092,-97.7584703
+64,Allison Elementary School,"515 Vargas Road, Austin, TX 78741",7,Public district,PK-6,30.2359059,-97.691632
+65,Austin High School,"1715 West Cesar Chavez Street, Austin, TX 78703",7,Public district,12-Sep,30.2735969,-97.7681386
+66,Brentwood Elementary School,"6700 Arroyo Seco, Austin, TX 78757",7,Public district,PK-5,30.3400761,-97.7314123
+67,Campbell Elementary School,"2613 Rogers Avenue, Austin, TX 78722",7,Public district,PK-5,30.282291,-97.713342
+68,Mccallum High School,"5600 Sunshine Drive, Austin, TX 78756",7,Public district,12-Sep,30.3275632,-97.7288086
+69,O Henry Middle School,"2610 West 10th Street, Austin, TX 78703",7,Public district,8-Jun,30.2854914,-97.7737553
+70,Ortega Elementary School,"1135 Garland Avenue, Austin, TX 78721",7,Public district,PK-5,30.2699957,-97.6842797
+71,Ridgetop Elementary School,"5005 Caswell Avenue, Austin, TX 78751",7,Public district,PK-5,30.3117933,-97.7163593
+72,Wooten Elementary School,"1406 Dale Drive, Austin, TX 78757",7,Public district,PK-5,30.352928,-97.7191662
+73,Kealing Middle School,"1607 Pennsylvania Avenue, Austin, TX 78702",7,Public district,8-Jun,30.270937,-97.721778
+74,Boone Elementary School,"8101 Croftwood Drive, Austin, TX 78749",7,Public district,PK-5,30.2037581,-97.8400314
+75,Hart Elementary School,"8301 Furness Drive, Austin, TX 78753",7,Public district,PK-5,30.3424507,-97.6887123
+76,Lake Travis High School,"3324 Ranch Road 620 South, Austin, TX 78738",7,Public district,12-Sep,30.3248495,-97.9680722
+77,Parmer Lane Elementary School,"1806 West Parmer Lane, Austin, TX 78727",7,Public district,PK-5,30.414748,-97.6917321
+78,Jollyville Elementary School,"6720 Corpus Christi Drive, Austin, TX 78729",7,Public district,PK-5,30.443797,-97.7513017
+79,Forest North Elementary School,"13414 Broadmeade Avenue, Austin, TX 78729",7,Public district,PK-5,30.4707529,-97.7818152
+80,Noel Grisham Middle School,"10805 School House Lane, Austin, TX 78750",7,Public district,8-Jun,30.457404,-97.806677
+81,Mcneil High School,"5720 McNeil Drive, Austin, TX 78729",7,Public district,12-Sep,30.4485865,-97.7333313
+82,Live Oak Elementary School,"8607 Anderson Mill Road, Austin, TX 78729",7,Public district,PK-5,30.4534005,-97.7705907
+83,Deerpark Middle School,"8849 Anderson Mill Road, Austin, TX 78729",7,Public district,8-Jun,30.4523649,-97.7728803
+84,Nyos - Magnolia Mccullough Campus,"1605 Kramer Lane, Austin, TX 78758",7,Public charter,PK-3,30.3846236,-97.7027747
+85,Mcbee Elementary School,"1101 West Braker Lane, Austin, TX 78758",7,Public district,PK-5,30.3832495,-97.6910646
+86,Kipp Austin Collegiate,"8509 Farm to Market 969, Austin, TX 78724",7,Public charter,12-Sep,30.2723506,-97.6384032
+87,Idea Allan College Preparatory,"1701 Vargas Road, Austin, TX 78741",7,Public charter,9-Jun,30.2261121,-97.6990324
+88,Lamar Middle School,"6201 Wynona Avenue, Austin, TX 78757",6,Public district,8-Jun,30.3377556,-97.7405518
+89,Murchison Middle School,"3700 North Hills Drive, Austin, TX 78731",6,Public district,8-Jun,30.3540765,-97.7585644
+90,Oak Hill Elementary School,"6101 Patton Ranch Road, Austin, TX 78735",6,Public district,PK-5,30.2379909,-97.8587606
+91,Odom Elementary School,"1010 Turtle Creek Boulevard, Austin, TX 78745",6,Public district,PK-5,30.205619,-97.7887779
+92,Pease Elementary School,"1106 Rio Grande Street, Austin, TX 78701",6,Public district,PK-6,30.2752911,-97.7480349
+93,Summitt Elementary School,"12207 Brigadoon Lane, Austin, TX 78727",6,Public district,PK-5,30.418607,-97.7190679
+94,Williams Elementary School,"500 Mairo Street, Austin, TX 78748",6,Public district,PK-5,30.1810015,-97.7915193
+95,Winn Elementary School,"3500 Susquehanna Lane, Austin, TX 78723",6,Public district,PK-6,30.3148825,-97.6649793
+96,Bailey Middle School,"4020 Lost Oasis Hollow, Austin, TX 78739",6,Public district,8-Jun,30.1642245,-97.8724201
+97,Kocurek Elementary School,"9800 Curlew Drive, Austin, TX 78748",6,Public district,PK-5,30.177745,-97.835249
+98,Copperfield Elementary School,"12135 Thompkins Drive, Austin, TX 78753",6,Public district,PK-5,30.3883326,-97.6599781
+99,Anderson Mill Elementary School,"10610 Salt Mill Hollow, Austin, TX 78750",6,Public district,PK-5,30.452836,-97.806853
+100,Purple Sage Elementary School,"11801 Tanglebriar Trail, Austin, TX 78750",6,Public district,K-5,30.4570863,-97.8201913
+101,Small Middle School,"4801 Monterey Oaks Boulevard, Austin, TX 78749",6,Public district,8-Jun,30.2337058,-97.8420028
+102,Casey Elementary School,"9400 Texas Oaks Drive, Austin, TX 78748",6,Public district,PK-5,30.1771894,-97.8146045
+103,Cedars International Academy,"8416 Interstate 35 Frontage Road, Austin, TX 78753",6,Public charter,PK-12,30.348818,-97.6943449
+104,Kipp Austin College Prep,"8509 Farm to Market 969, Austin, TX 78724",6,Public charter,8-May,30.2723506,-97.6384032
+105,Padron Elementary School,"1111 West 6th Street, Austin, TX 78703",6,Public district,PK-5,30.271564,-97.756538
+106,Perez Elementary School,"7500 South Pleasant Valley Road, Austin, TX 78744",6,Public district,PK-5,30.1708512,-97.7562376
+107,Grandview Hills Elementary School,"12024 Vista Parke Drive, Austin, TX 78726",6,Public district,PK-5,30.4154362,-97.8533359
+108,Hillside Elementary School,"9600 Perry Lane, Austin, TX 78731",6,Public district,PK-4,30.327153,-97.7594081
+109,Kipp Austin Academy Of Arts & Lett,"8509 Farm to Market 969, Austin, TX 78724",6,Public charter,8-May,30.2723506,-97.6384032
+110,Texas Empowerment Academy Elementary School,"6414 North Hampton Drive, Austin, TX 78723",6,Public charter,K-5,30.3145771,-97.6814543
+111,Kipp Austin Beacon Prep,"8509 Farm to Market 969, Austin, TX 78724",6,Public charter,8-May,30.2723506,-97.6384032
+112,Kipp Austin Comunidad,"8509 Farm to Market 969, Austin, TX 78724",6,Public charter,PK-4,30.2723506,-97.6384032
+113,Austin Achieve Public Schools,"5908 Manor Road, Austin, TX 78723",6,Public charter,9-Jun,30.3073171,-97.679957
+114,Webb Primary Center,"601 East Saint Johns Avenue, Austin, TX 78752",6,Public district,PK-4,30.332413,-97.707407
+115,Joseph Gilbert Elementary School,"5412 Gilbert Road, Austin, TX 78724",6,Public district,PK-5,30.2585148,-97.592503
+116,Idea Allan Academy,"1701 Vargas Road, Austin, TX 78741",6,Public charter,K-5,30.2261121,-97.6990324
+117,Texas Empowerment Academy,"3613 Bluestein Drive, Austin, TX 78721",5,Public charter,12-May,30.2730533,-97.6723241
+118,Blanton Elementary School,"5408 Westminster Drive, Austin, TX 78723",5,Public district,PK-6,30.3069305,-97.6906309
+119,Brooke Elementary School,"3100 East 4th Street, Austin, TX 78702",5,Public district,PK-5,30.2548223,-97.7085089
+120,Cook Elementary School,"1511 Cripple Creek Drive, Austin, TX 78758",5,Public district,PK-5,30.3780027,-97.7048217
+121,Fulmore Middle School,"201 East Mary Street, Austin, TX 78704",5,Public district,8-Jun,30.243927,-97.750467
+122,Harris Elementary School,"1711 Wheless Lane, Austin, TX 78723",5,Public district,PK-6,30.3148292,-97.690767
+123,Joslin Elementary School,"4500 Manchaca Road, Austin, TX 78745",5,Public district,PK-5,30.2276749,-97.7899382
+124,Linder Elementary School,"2800 Metcalfe Road, Austin, TX 78741",5,Public district,5-Jan,30.224531,-97.737915
+125,Pillow Elementary School,"3025 Crosscreek Drive, Austin, TX 78757",5,Public district,PK-5,30.3692274,-97.7332785
+126,Sanchez Elementary School,"73 San Marcos Street, Austin, TX 78702",5,Public district,PK-5,30.258345,-97.7355283
+127,Covington Middle School,"3700 Convict Hill Road, Austin, TX 78749",5,Public district,8-Jun,30.2113591,-97.8341298
+128,Palm Elementary School,"7601 Dixie Drive, Austin, TX 78744",5,Public district,PK-5,30.1648241,-97.7436728
+129,Hillcrest Elementary School,"6910 East William Cannon Drive, Austin, TX 78744",5,Public district,PK-5,30.1654102,-97.7290982
+130,University Of Texas Elementary Charter School,"2200 East 6th Street, Austin, TX 78702",5,Public charter,PK-5,30.2603052,-97.717612
+131,River Oaks Elementary School,"12401 Scofield Farms Drive, Austin, TX 78758",5,Public district,PK-5,30.4086164,-97.6869636
+132,John B Connally High School,"13212 North Lamar Boulevard, Austin, TX 78753",5,Public district,12-Sep,30.4186788,-97.6763882
+133,Wells Branch Elementary School,"14650 Merrilltown Drive, Austin, TX 78728",5,Public district,PK-5,30.4464094,-97.687992
+134,Decker Elementary School,"8500 Decker Lane, Austin, TX 78724",5,Public district,PK-5,30.311619,-97.616897
+135,Overton Elementary School,"7201 Colony Loop Drive, Austin, TX 78724",5,Public district,PK-6,30.3001872,-97.6367011
+136,Pioneer Crossing Elementary School,"11300 Samsung Boulevard, Austin, TX 78754",5,Public district,PK-5,30.3620315,-97.6400811
+137,Harmony School of Science - Austin,"11800 Stonehollow Dr. Suite 100, Austin, TX 78758",5,Public charter,K-8,30.4006797,-97.7087907
+138,Kipp Austin Vista Middle Schools,"8509 Farm to Market 969, Austin, TX 78724",5,Public charter,8-May,30.2723506,-97.6384032
+139,Harmony School of Innovation,"2124 E. St. Elmo Rd., Austin, TX 78744",5,Public charter,K-5,30.2100447,-97.7452642
+140,Idea Rundberg College Preparatory,"9504 North Interstate 35 Frontage Road, Austin, TX 78753",5,Public charter,6,30.3609586,-97.6878049
+141,Eden Park Academy,"6215 Manchaca Road, Austin, TX 78745",4,Public charter,PK-6,30.209323,-97.803132
+142,Andrews Elementary School,"6801 Northeast Drive, Austin, TX 78723",4,Public district,PK-5,30.317554,-97.679663
+143,Becker Elementary School,"906 West Milton Street, Austin, TX 78704",4,Public district,PK-5,30.2503357,-97.7596416
+144,Bedichek Middle School,"6800 Bill Hughes Road, Austin, TX 78745",4,Public district,8-Jun,30.196163,-97.7862169
+145,Brown Elementary School,"505 West Anderson Lane, Austin, TX 78752",4,Public district,PK-6,30.344768,-97.7103433
+146,Crockett High School,"5601 Manchaca Road, Austin, TX 78745",4,Public district,12-Sep,30.2147238,-97.7973918
+147,Cunningham Elementary School,"2200 Berkeley Avenue, Austin, TX 78745",4,Public district,PK-5,30.210476,-97.805811
+148,Dawson Elementary School,"3001 South 1st Street, Austin, TX 78704",4,Public district,PK-5,30.234063,-97.763364
+149,Houston Elementary School,"5409 Ponciana Drive, Austin, TX 78744",4,Public district,PK-5,30.1964677,-97.7550709
+150,Lanier High School,"1201 Payton Gin Road, Austin, TX 78758",4,Public district,12-Sep,30.360485,-97.7078978
+151,Maplewood Elementary School,"3808 Maplewood Avenue, Austin, TX 78722",4,Public district,PK-6,30.293337,-97.714901
+152,Metz Elementary School,"84 Robert Martinez Junior Street, Austin, TX 78702",4,Public district,PK-5,30.2545817,-97.7221015
+153,Sims Elementary School,"1203 Springdale Road, Austin, TX 78721",4,Public district,PK-6,30.27941,-97.6854029
+154,Wooldridge Elementary School,"1412 Norseman Terrace, Austin, TX 78758",4,Public district,PK-5,30.3649553,-97.7099315
+155,Zavala Elementary School,"310 Robert Martinez Jr., Austin, TX 78702",4,Public district,PK-6,30.2582731,-97.7195431
+156,Jordan Elementary School,"6711 Johnny Morris Road, Austin, TX 78724",4,Public district,PK-6,30.3010887,-97.6467738
+157,Davis Elementary School,"5214 Duval Road, Austin, TX 78727",4,Public district,PK-5,30.418248,-97.7421822
+158,Langford Elementary School,"2206 Blue Meadow Drive, Austin, TX 78744",4,Public district,PK-5,30.1820835,-97.7633689
+159,Popham Elementary School,"7014 Elroy Road, Austin, TX 78617",4,Public district,PK-5,30.1583685,-97.6441418
+160,Smith Elementary School,"4209 Smith School Road, Austin, TX 78744",4,Public district,PK-5,30.195935,-97.7133868
+161,Baty Elementary School,"2101 Faro Drive, Austin, TX 78741",4,Public district,PK-5,30.2270684,-97.7128148
+162,Bluebonnet Trail Elementary School,"11316 Farmhaven Road, Austin, TX 78754",4,Public district,PK-5,30.3518803,-97.6174027
+163,Dessau Elementary School,"1501 Dessau Ridge Lane, Austin, TX 78754",4,Public district,"1, 3-5",30.401652,-97.6439369
+164,Westview Middle School,"1805 Scofield Lane, Austin, TX 78727",4,Public district,8-Jun,30.4172292,-97.6887593
+165,Harmony Science Academy - Austin,"930 East Rundberg Lane, Austin, TX 78753",4,Public charter,K-8,30.3571453,-97.6846832
+166,Dessau Middle School,"12900 Dessau Road, Austin, TX 78754",4,Public district,8-Jun,30.3979841,-97.6435785
+167,Akins High School,"10701 South 1st Street, Austin, TX 78748",4,Public district,12-Sep,30.1489844,-97.8018547
+168,Austin Discovery School,"8509 Farm to Market 969, Austin, TX 78724",4,Public charter,K-7,30.2723506,-97.6384032
+169,Harmony School of Excellence - Austin,"2100 E St Elmo Rd Austin, Texas 78744, Austin, TX 78744",4,Public charter,K-12,30.210432,-97.746731
+170,Vista Academy Of Austin-Mueller,"1504 East 51st Street, Austin, TX 78723",4,Public charter,K-7,30.3061411,-97.7015716
+171,The East Austin College Prep At Ml,"5800 East Martin Luther King Junior Boulevard, Austin, TX 78721",4,Public charter,12-Jul,30.2877846,-97.6667609
+172,KIPP Austin Leadership Elementary School,"5107 South Interstate 35 Frontage Road, Austin, TX 78744",4,Public charter,K-4,30.2044092,-97.7584703
+173,Barrington Elementary School,"400 Cooper Drive, Austin, TX 78753",3,Public district,PK-6,30.3605079,-97.6966524
+174,Oak Springs Elementary School,"3601 Webberville Road, Austin, TX 78702",3,Public district,PK-5,30.271786,-97.7048413
+175,Pecan Springs Elementary School,"3100 Rogge Lane, Austin, TX 78723",3,Public district,PK-6,30.3031376,-97.6763182
+176,Pleasant Hill Elementary School,"6405 Cir S Rd, Austin, TX 78745",3,Public district,PK-5,30.1962134,-97.7764906
+177,Reagan High School,"7104 Berkman Drive, Austin, TX 78752",3,Public district,12-Sep,30.3241886,-97.6913511
+178,Reilly Elementary School,"405 Denson Drive, Austin, TX 78752",3,Public district,PK-5,30.3279913,-97.7200233
+179,Travis High School,"1211 Oltorf Street, Austin, TX 78704",3,Public district,12-Sep,30.233839,-97.743258
+180,Travis Heights Elementary School,"2010 Alameda Drive, Austin, TX 78704",3,Public district,PK-5,30.2415692,-97.7459465
+181,Walnut Creek Elementary School,"401 West Braker Lane, Austin, TX 78753",3,Public district,PK-6,30.379195,-97.684126
+182,Webb Middle School,"601 East Saint Johns Avenue, Austin, TX 78752",3,Public district,8-Jun,30.332413,-97.707407
+183,Galindo Elementary School,"3800 South 2nd Street, Austin, TX 78704",3,Public district,PK-5,30.2295854,-97.771885
+184,Hornsby-Dunlap Elementary School,"13901 F M Rd 969, Austin, TX 78724",3,Public district,PK-5,30.4750921,-97.7674021
+185,Northwest Elementary School,"14014 Thermal Drive, Austin, TX 78728",3,Public district,PK-5,30.4319095,-97.6755595
+186,Rodriguez Elementary School,"4400 Franklin Park Drive, Austin, TX 78744",3,Public district,PK-5,30.2006584,-97.7472497
+187,John P Ojeda J High School,"4900 McKinney Falls Parkway, Austin, TX 78744",3,Public district,8-Jun,30.1905707,-97.7125406
+188,Paredes Middle School,"10100 S Mary Moore Searight Dr, Austin, TX 78748",3,Public district,8-Jun,30.1671271,-97.8112954
+189,Magnolia Montessori For All,"5100 Pecan Brook Drive, Austin, TX 78724",3,Public charter,PK-8,30.3178958,-97.6593009
+190,Eastside Memorial High School,"1012 Arthur Stiles Road, Austin, TX 78721",3,Public district,12-Sep,30.2568301,-97.6820523
+191,Dailey Middle School,"14000 Westall Street, Austin, TX 78725",3,Public district,8-Jun,30.2431591,-97.5899873
+192,The East Austin College Prep Acade,"6002 Jain Lane, Austin, TX 78721",3,Public charter,6-Feb,30.2605741,-97.6826079
+193,The Real Learning Academy,"6405 Interstate 35 Frontage Road, Austin, TX 78744",3,Public charter,PK-5,30.1914238,-97.7671351
+194,Dobie Middle School,"1200 East Rundberg Lane, Austin, TX 78753",2,Public district,8-Jun,30.354549,-97.679377
+195,Govalle Elementary School,"3601 Valley Hill Circle, Austin, TX 78741",2,Public district,PK-5,30.2345238,-97.730671
+196,Martin Middle School,"1601 Haskell Street, Austin, TX 78702",2,Public district,8-Jun,30.2529898,-97.7300503
+197,Norman Elementary School,"4001 Tannehill Lane, Austin, TX 78721",2,Public district,PK-6,30.2781905,-97.6739286
+198,Mendez Middle School,"5106 Village Square Drive, Austin, TX 78744",2,Public district,8-Jun,30.1886755,-97.7430555
+199,Widen Elementary School,"5605 Nuckols Crossing Road, Austin, TX 78744",2,Public district,PK-5,30.1887131,-97.7400827
+200,Lbj High School,"7309 Lazy Creek Drive, Austin, TX 78724",2,Public district,12-Sep,30.313495,-97.6566673
+201,Garcia Ymla,"7414 Johnny Morris Road, Austin, TX 78724",2,Public district,8-Jun,30.3112256,-97.6431011
+202,Sci-Tech Preparatory,"6405 Interstate 35 Frontage Road, Austin, TX 78744",2,Public charter,12-Jun,30.1914238,-97.7671351
+203,Kipp Austin Connections Elementary School,"8509 Farm to Market 969, Austin, TX 78724",2,Public charter,PK-4,30.2723506,-97.6384032
+204,Sadler Means Ywla,"6401 North Hampton Drive, Austin, TX 78723",2,Public district,8-Jun,30.3135772,-97.6807321
+205,Burnet Middle School,"8401 Hathaway Drive, Austin, TX 78757",1,Public district,8-Jun,30.3650748,-97.7256054
+206,Rosedale,"2117 West 49th Street, Austin, TX 78756",1,Public district,PK-12,30.3198723,-97.740204
+207,Pickle Elementary School,"1101 Wheatley Avenue, Austin, TX 78752",1,Public district,PK-5,30.3334079,-97.6938273
+208,Texas School For The Deaf,"1102 South Congress Avenue, Austin, TX 78704",1,Public district,PK-12,30.2530439,-97.7511677
+209,Tnc Campus (Texas Neurorehabilitat,"1106 West Dittmar Road, Austin, TX 78745",1,Public charter,K-12,30.1889586,-97.8058052
+210,Premier High School At Travis,"1211 East Oltorf Street, Austin, TX 78704",1,Public charter,12-Sep,30.233839,-97.743258
+211,Premier High School At Lanier,"1201 Payton Gin Road, Austin, TX 78758",1,Public charter,12-Sep,30.360485,-97.7078978
+212,ACE Academy,"3901 Shoal Creek Boulevard, Austin, TX 78756",,Private,PK-8,30.3081556,-97.7472105
+213,Allan Elementary School,"4900 Gonzales Street, Austin, TX 78702",,Public district,PK-5,30.2554633,-97.6978077
+214,Leadership Academy,"2515 South Congress Avenue, Austin, TX 78704",,Public district,12-Jun,30.235637,-97.753665
+215,Garza Independence High School,"1600 Chicon Street, Austin, TX 78702",,Public district,12-Sep,30.2773093,-97.7211962
+216,Schoolhouse Academy,"13740 Research Blvd., Austin, TX 78750",,Private,K-2,30.4595967,-97.7948439
+217,The Magellan International School,"7130 Chimney Corners, Austin, TX 78731",,Private,PK-8,30.358205,-97.7609462
+218,Shoal Creek,"3501 Mills Avenue, Austin, TX 78731",,Public charter,K-12,30.3060405,-97.7483214
+219,House Sparrows Academy ,"8432 Jamestown Drive, Austin, TX 78758",,Private,3-Jan,30.3553884,-97.709757
+220,Sacred Heart Catholic School,"5911 Reicher Drive, Austin, TX 78723",,Private,PK-6,30.3047405,-97.675553
+221,Cathedral School Of St Mary,"910 San Jacinto Boulevard, Austin, TX 78701",,Private,PK-8,30.2710783,-97.7394566
+222,St Ignatius Martyr School,"120 West Oltorf Street, Austin, TX 78704",,Private,PK-8,30.239787,-97.7540606
+223,St Austin Catholic School,"1911 San Antonio Street, Austin, TX 78705",,Private,PK-8,30.2830159,-97.7428229
+224,St Louis School,"2114 Saint Joseph Boulevard, Austin, TX 78757",,Private,PK-8,30.3523193,-97.7308787
+225,Veritas Academy,"Po Box 90517, Austin, TX 78709",,Private,PK-12,30.23,-97.85
+226,AHB Community School,"4001 Speedway Ave, Austin, TX 78751",,Private,K-8,30.3031799,-97.7316113
+227,White Bird Montessori School,"9000 Manchaca Road, Austin, TX 78748",,Private,PK-K,30.1824402,-97.8193665
+228,St Stephens Episcopal School,"6500 Saint Stephens Drive, Austin, TX 78746",,Private,12-Jun,30.3279309,-97.8188011
+229,St. Andrew's Episcopal School,"1112 W 31st St, Austin, TX 78705",,Private,K-12,30.3024996,-97.7490212
+230,St. Martin's Lutheran School,"606 W 15th St, Austin, TX 78701",,Private,PK-K,30.279092,-97.7453983
+231,Redeemer Lutheran School,"1500 West Anderson Lane, Austin, TX 78757",,Private,PK-8,30.3524206,-97.7207811
+232,Hope Lutheran School,"6414 N Hampton Dr, Austin, TX 78723",,Private,K-7,30.3145771,-97.6814543
+233,St. Paul Lutheran School,"3407 Red River Street, Austin, TX 78705",,Private,PK-8,30.2932399,-97.7253114
+234,Renaissance Academy,"14401 Owen-Tech Boulevard, Austin, TX 78728",,Private,PK-12,30.4349122,-97.6704568
+235,Holy Word Christian Academy,"10601 Bluff Bend Drive, Austin, TX 78753",,Private,K-8,30.3684649,-97.6756851
+236,All Saints' Episcopal School,"209 West 27th Street, Austin, TX 78705",,Private,PK-K,30.2916603,-97.7397036
+237,The Oaks School,"1407 W Stassney Lane, Austin, TX 78745",,Private,12-Jun,30.2113495,-97.7926913
+238,Austin Montessori School,"5006 Sunset Trail, Austin, TX 78745",,Private,PK-9,30.2276727,-97.8050501
+239,Austin SDA Junior Academy,"301 W Anderson Ln, Austin, TX 78752",,Private,K-10,30.3443189,-97.7077674
+240,Kirby Hall School,"306 W 29th St, Austin, TX 78705",,Private,PK-12,30.2945486,-97.7403416
+241,Maranatha Christian Academy,"8210 S 1st Street, Austin, TX 78748",,Private,K-10,30.1807641,-97.7961988
+242,St. Michael's Catholic Academy,"3000 Barton Creek Blvd, Austin, TX 78735",,Private,12-Sep,30.288775,-97.8747249
+243,St. Theresas Catholic School,"4311 Small Drive, Austin, TX 78731",,Private,PK-8,30.342486,-97.774193
+244,Bannockburn Christian Academy,"7100 Brodie Ln, Austin, TX 78745",,Private,PK-5,30.2123373,-97.8323962
+245,The Children's School,"2825 Hancock Drive, Austin, TX 78731",,Private,PK-4,30.327788,-97.750492
+246,Primavera Montessori School,"6405 Manchaca Rd., Austin, TX 78745",,Private,PK-4,30.2080078,-97.8047953
+247,Our Savior Lutheran School,"1513 East Yager Lane, Austin, TX 78753",,Private,PK-5,30.386407,-97.6519775
+248,Strickland School,"P.O. Box 150413, Austin, TX 78715",,Private,PK-8,30.21,-97.8
+249,Austin Waldorf School,"8700 South View Road, Austin, TX 78737",,Private,K-12,30.2314147,-97.912796
+250,Parkside Community School,"3702 W. Slaughter Lane , Austin, TX 78748",,Private,PK-6,30.1855877,-97.8535712
+251,Austin Children's Montessori,"8807 Manchaca Road, Austin, TX 78748",,Private,PK-1,30.1836922,-97.8170433
+252,Lake Hills Montessori Austin Campus,"600 Cuernavaca Drive North, Austin, TX 78733",,Private,PK-K,30.331038,-97.8701719
+253,Hill Country Christian School,"12124 Ranch Rd 620 N, Austin, TX 78750",,Private,PK-12,30.4612628,-97.8191033
+254,Bais Menachem Hebrew Academy,"2127 West Parmer Lane, Austin, TX 78727",,Private,PK-6,30.4165878,-97.698205
+255,Paragon Prep School,"2001 West Koenig Lane, Austin, TX 78756",,Private,K-8,30.3335608,-97.7379314
+256,Austin Jewish Academy,"7300 Hart Lane, Austin, TX 78731",,Private,K-8,30.358004,-97.7556394
+257,Good Shepherd Episcopal School,"2206 Exposition Boulevard, Austin, TX 78703",,Private,PK-K,30.296466,-97.769123
+258,The Isely School,"2301 Shoal Creek Boulevard, Austin, TX 78705",,Private,K-3,30.2868872,-97.752315
+259,Montessori House Of Chldr,"1601 Brackenridge Street, Austin, TX 78704",,Private,PK,30.2470124,-97.7479201
+260,The Montessori Center,"4108 Avenue H, Austin, TX 78751",,Private,PK-K,30.303618,-97.728186
+261,Austin Village Academy,"4105 Manchaca Rd., Austin, TX 78704",,Private,K-9,30.2314038,-97.7869774
+262,Hyde Park Baptist Elementary School,"3901 Speedway, Austin, TX 78751",,Private,K-5,30.3023809,-97.7317464
+263,Hyde Park Baptist School,"3901 Speedway, Austin, TX 78751",,Private,K-12,30.3023809,-97.7317464
+264,Huntington-Surrey High School,"5206 Balcones Drive, Austin, TX 78756",,Private,12-Aug,30.3351552,-97.760021
+265,Holy Family Catholic School,"9400 Neenah Avenue, Austin, TX 78717",,Private,PK-8,30.489832,-97.760916
+266,St Matthew's Episcopal School,"8134 Mesa Drive, Austin, TX 78759",,Private,PK-K,30.374622,-97.756452
+267,Austin Peace Academy,"5110 Manor Road, Austin, TX 78723",,Private,PK-12,30.2996651,-97.6867751
+268,Praise Christian Academy,"5800 E Martin Luther King Jr, Austin, TX 78721",,Private,PK-6,30.2877846,-97.6667609
+269,St. Gabriel's Catholic School,"2500 Wimberly Ln, Austin, TX 78735",,Private,PK-8,30.2921931,-97.8728443
+270,Brentwood Christian School,"11908 N Lamar Blvd, Austin, TX 78753",,Private,PK-12,30.3906252,-97.6825188
+271,Settlement Home,"1600 Payton Gin Road, Austin, TX 78758",,Public charter,12-Jun,30.3651564,-97.7134103
+272,Phoenix Academy,"400 West Live Oak Street, Austin, TX 78704",,Public district,12-Jun,30.2441451,-97.7561627
+273,K12 International Academy,"1701 N. Congress Avenue, Austin, TX 78701",,Private,K-12,30.279167,-97.7379783
+274,University High School,"2007 University Avenue, Austin, TX 78705",,Public charter,12-Sep,30.2833187,-97.7392735
+275,North Austin Montessori School,"12400 Amherst Drive, Austin, TX 78727",,Private,PK-K,30.4213373,-97.7164791
+276,George M Kometzky School,"8701 North Mopac Expressway, Austin, TX 78759",,Public charter,K-12,30.374687,-97.7386912
+277,Texas School For The Blind,"1100 West 45th Street, Austin, TX 78756",,Public district,12-Jan,30.3149769,-97.7393206
+278,University of Texas at Austin High School,"2901 N. IH35, Austin, TX 78722, Austin, TX 78713",,Public district,12-Sep,30.3000728,-97.7157896
+279,Westlake Alternative School,"601 Camp Craft Road, Austin, TX 78746",,Public district,12-Sep,30.2779841,-97.8163667
+280,Delco Primary School,"12900 Dessau Road, Austin, TX 78754",,Public district,PK-2,30.3979841,-97.6435785
+281,Kamico Academy,"4413 Spicewood Springs Rd, Austin, TX 78759",,Private,K-6,30.373403,-97.7591507
+282,Austin International School,"4001 Adelphi Lane, Austin, TX 78727",,Private,PK-5,30.4223361,-97.7182065
+283,St Francis School,"300 East Huntland Drive, Austin, TX 78752",,Private,PK-8,30.331246,-97.7100609
+284,Hawthorne Montessori School,"1414 Kramer Lane, Austin, TX 78758",,Private,PK-K,30.3834569,-97.6986767
+285,Casa Montessori Child Development Center,"Po Box 1416, Austin, TX 78767",,Private,PK-K,30.2696037,-97.7399579
+286,Trinity Episcopal School of AU,"3901 Bee Cave Road, Austin, TX 78746",,Private,K-8,30.2814718,-97.8087326
+287,St George's Episcopal School,"4301 South Interstate 35 Frontage Road, Austin, TX 78744",,Private,PK,30.2116674,-97.753654
+288,Headwaters School,"801 Rio Grande Street, Austin, TX 78701",,Private,PK-12,30.2719493,-97.7484175
+289,Generation 2,"1610 Wheless Lane, Austin, TX 78723",,Private,PK,30.3193066,-97.6910953
+290,International High School,"1012 Arthur Stiles Road, Austin, TX 78721",,Public district,12-Sep,30.2568301,-97.6820523
+291,Gus Garcia Young Men's Leadership Academy,"7414 Johnny Morris Road, Austin, TX 78724",,Public district,8-Jun,30.3112256,-97.6431011
+292,Acton Academy,"2201 Alexander Avenue, Austin, TX 78722",,Private,12-Feb,30.2848124,-97.709923
+293,Austin St Hospital,"1111 West 6th Street, Austin, TX 78703",,Public district,PK-12,30.271564,-97.756538
+294,Travis County State Jail,"8101 Farm to Market 969, Austin, TX 78724",,Public district,n/a,30.278333,-97.6418605
+295,Jackie's Performing Arts & Private Education,"11530 Manchaca Road, Austin, TX 78748",,Private,PK-5,30.1523236,-97.8350853
+296,Regents School Of Austin,"3230 Travis Country Circle, Austin, TX 78735",,Private,K-12,30.2544877,-97.845322
+297,Greater Calvary Academy,"6510 Berkman Drive, Austin, TX 78723",,Private,K-6,30.3187422,-97.6901025
+298,San Juan Diego Catholic High School,"800 Herndon Lane, Austin, TX 78704",,Private,12-Aug,30.2410091,-97.7630839
+299,Shoreline Christian School,"15201 Burnet Road, Austin, TX 78728",,Private,PK-7,30.4585441,-97.6923991
+300,St. James' Episcopal School,"1941 Webberville Road, Austin, TX 78721",,Private,PK-K,30.2826886,-97.6731332
+301,Griffin School,"5001 Evans Ave., Austin, TX 78751",,Private,12-Sep,30.3128441,-97.7192501
+302,Austin Children's Academy,"12310 Ranch Road 620 North, Austin, TX 78750",,Private,PK-K,30.4637628,-97.8137541
+303,Girls' School Of Austin,"2007 McCall Road, Austin, TX 78703",,Private,K-8,30.2928554,-97.7633211
+304,Read Pre-K Demonstration School,"2608 Richcreek Road, Austin, TX 78757",,Public district,PK,30.3525149,-97.7370076
+305,Odyssey School,"4407 Red River Street, Austin, TX 78751",,Private,12-May,30.3040877,-97.7197794
+306,The Keystone School,"1701 N. Congress Avenue, Austin, TX 78701",,Private,12-Jun,30.279167,-97.7379783
+307,TNS Academy,"3901 Shoal Creek Blvd., Austin, TX 78756",,Private,K-5,30.3081556,-97.7472105
+308,City School,"1844 Teri Rd, Austin, TX 78741",,Private,PK-6,30.2043482,-97.7545992
+309,Capitol School Of Austin,"2011 West Koenig Lane, Austin, TX 78756",,Private,PK-4,30.3336895,-97.7390697
+310,Casner Christian Academy,"3838 Steck Avenue, Austin, TX 78759",,Private,PK-1,30.3737008,-97.7499907
+311,Mount Sinai Christian Academy,"5900 Cameron Road, Austin, TX 78723",,Private,PK,30.317058,-97.7010042
+312,Boys Menachem Hebrew Academy,"7010 Village Center Dr, Austin, TX 78731",,Private,PK-8,30.352613,-97.7569299
+313,Rawson Saunders,"2614A Exposition Boulevard, Austin, TX 78703",,Private,12-Jan,30.3021446,-97.7663357
+314,Primrose School-Bee Cave,"3801 Juniper Trace, Austin, TX 78738",,Private,PK,30.3087274,-97.9355341
+315,Hyde Park Baptist High School,"11400 North Mopac, Austin, TX 78759",,Private,"6, 9-12",30.4082333,-97.7317666
+316,Brentwood Christian Secondary School,"11908 N Lamar Blvd, Austin, TX 78753",,Private,12-Oct,30.3906252,-97.6825188
+317,St Paul Mornings W Jesus Child Care Center,"10000 David Moore Drive, Austin, TX 78748",,Private,PK,30.1662022,-97.8156748
+318,Mcbee Extend A Care Dc,"Po Box 6340, Austin, TX 78762",,Private,PK-K,30.2616427,-97.7221996
+319,Bethany Methodist Pre-School,"10010 Anderson Mill Road, Austin, TX 78750",,Private,PK,30.447793,-97.798919
+320,Playtime Learning Center,"1006 E 50th St, Austin, TX 78751",,Private,PK,30.3095471,-97.711726
+321,Ebenezer Head Start,"1010 East 10th Street, Austin, TX 78702",,Private,PK,30.2690496,-97.7307475
+322,St Thomas Mother's Day Out,"10205 North FM 620, Austin, TX 78726",,Private,PK,30.4401174,-97.8335192
+323,Woodland Montessori & Child Care Center,"9707 Anderson Mill Road #350, Austin, TX 78750",,Private,PK,30.4474937,-97.7937504
+324,Mt Olive Lutheran Pre-School,"10408 U.S. 290, Austin, TX 78737",,Private,PK,30.2264501,-97.9481792
+325,Peace Lutheran Pre-School,"10625 N Fm 620, Austin, TX 78726",,Private,PK-K,30.4456808,-97.831311
+326,Happy Faces Day Care,"10713 F M 620 N, Austin, TX 78726",,Private,PK,30.4467957,-97.8308705
+327,Priscilla Pond Flawn Cc,"1 Univ Station , Austin, TX 78712",,Private,PK,30.2850357,-97.7288552
+328,Mainspring Schools,"1100 W Live Oak, Austin, TX 78704",,Private,PK,30.2470856,-97.7648615
+329,Main Spring Schools,"1100 West Live Oak Street, Austin, TX 78704",,Private,PK,30.2470856,-97.7648615
+330,Children's Courtyard Child Care Center,"11012 Harris Branch Parkway, Austin, TX 78754",,Private,PK,30.3444093,-97.6143205
+331,Kiddie Korner Day Care Center,"1110 Tillery Street, Austin, TX 78702",,Private,PK,30.2658334,-97.702655
+332,Matteson Group Day Care Home,"11106 Spicewood Club Dr, Austin, TX 78750",,Private,PK,30.4389345,-97.8064925
+333,Aisd Child Development Center Crockett,"1111 West 6th Street, Austin, TX 78703",,Private,PK,30.271564,-97.756538
+334,Westoaks Woods Bapt Ch Pre-School,"2900 West Slaughter Lane, Austin, TX 78748",,Private,PK,30.180423,-97.839866
+335,Happy Faces Bilingual Cc,"1115 East Saint Johns Avenue, Austin, TX 78752",,Private,PK,30.328318,-97.6951024
+336,Graham Extend A Care Head Start,"Po Box 6340, Austin, TX 78762",,Private,PK,30.2616427,-97.7221996
+337,Braker Lane Christian Learning,"11300 Hunters Lane, Austin, TX 78753",,Private,PK,30.3800539,-97.6826978
+338,Hope Presbyterian Children's Center,"11512 Olson Drive, Austin, TX 78750",,Private,PK,30.4453339,-97.8062206
+339,Jackies Dance & Gymnastics Dc,"11530 Manchaca Road, Austin, TX 78748",,Private,PK,30.1523236,-97.8350853
+340,Crosstimber Childrens Home,"11603 Crosstimber Dr, Austin, TX 78750",,Private,PK,30.44758,-97.809194
+341,Beaverbrook Children's Center,"11726 Jollyville Rd, Austin, TX 78759",,Private,PK,30.4193988,-97.7529467
+342,Abc Child Development Center,"Millwright Parkway, Austin, TX 78750",,Private,PK,30.4518119,-97.8028254
+343,Scooters Learning Center,"1182 Navasota Street, Austin, TX 78702",,Private,PK,30.2714194,-97.727769
+344,First Foundations Pre-School,"11902 Anderson Mill Road, Austin, TX 78726",,Private,PK,30.4568171,-97.8259319
+345,First United Methodist Pre-School,"1201 Lavaca Street, Austin, TX 78701",,Private,PK,30.2750147,-97.7427364
+346,El Buen Pastor Development Center,"1208 Willow Street, Austin, TX 78702",,Private,PK-K,30.2591294,-97.7322267
+347,Kids Kare,"12200 Mopac, Austin, TX 78758",,Private,PK,30.4143534,-97.70783
+348,Extend A Care-Summitt,"Po Box 6340, Austin, TX 78762",,Private,PK,30.2616427,-97.7221996
+349,Children's Network,"12223 Cassady Drive, Austin, TX 78727",,Private,PK,30.4210589,-97.7184376
+350,Noah's Ark Learning Center,"1224 Jordan's Crossing, Austin, TX 78753",,Private,PK,30.3061122,-97.7080261
+351,Elochka Child Development Center,"12251 Running Bird Lane, Austin, TX 78758",,Private,PK,N/A,N/A
+352,Joy Of Learning Center,"Po Box 82373, Austin, TX 78708",,Private,PK,30.3911673,-97.7051165
+353,Children's Courtyard Child Care Center,"12336 North Mo-pac Expressway, Austin, TX 78758",,Private,PK,N/A,N/A
+354,Buttons N Bows Gdh,"12405 Mossy Bark Trail, Austin, TX 78750",,Private,PK,N/A,N/A
+355,Vip Pre-School,"12507 Cortaro Cove, Austin, TX 78729",,Private,PK,30.4429006,-97.7653117
+356,Delco Primary YMCA,"12900 Dessau Rd, Austin, TX 78754",,Private,PK,N/A,N/A
+357,True Light Day Care,"1300 Fort Branch Blvd, Austin, TX 78721",,Private,PK,30.2767363,-97.6804519
+358,Discovery Years,"1303 West Slaughter Lane, Austin, TX 78748",,Private,PK-K,30.1735126,-97.8158679
+359,St Luke Infant Care Center,"1306 West Lynn Street, Austin, TX 78703",,Private,PK,30.2813612,-97.7589042
+360,Stepping Stone Xi-Seton,"1313 Red River Street, Austin, TX 78701",,Private,PK,30.274291,-97.7346555
+361,Faith Presbyterian Child Care,"1314 East Oltorf Street, Austin, TX 78704",,Private,PK,30.2348697,-97.74264
+362,West Austin Youth Cdc,"Po Box 50198, Austin, TX 78763",,Private,PK,30.3,-97.77
+363,Alpha Omega Early Edu Development Center,"1317 Rosewood Avenue, Austin, TX 78702",,Private,PK,30.2685703,-97.7248511
+364,Kid Space Day Care,"13376 North Highway 183 #112, Austin, TX 78750",,Private,PK,30.4448252,-97.7891893
+365,Faith Montesssori Child Care Center,"13524 Albania Way, Austin, TX 78729",,Private,PK,30.459921,-97.755622
+366,Extend A Care Dc-Hornsby,"13901 Farm-to-Market 969, Austin, TX 78724",,Private,PK,30.2478695,-97.5876121
+367,Petite Ecole Internationale,"4520 Burnet Rd, Austin, TX 78756",,Private,PK,30.3163103,-97.7413032
+368,United Methodist Pre-School,"1502 Ranch to Market 620, Austin, TX 78734",,Private,PK,30.3490695,-97.9653583
+369,Promiseland Learning School,"1504 East 51st Street, Austin, TX 78723",,Private,PK,30.3061411,-97.7015716
+370,Rosewood Oaks Primary,"1507 Lavaca Street, Austin, TX 78701",,Private,PK,30.2782783,-97.7413709
+371,Kids R Kids 33 Day Care,"15111 Avery Ranch Boulevard, Austin, TX 78717",,Private,PK,30.4985477,-97.7722066
+372,Shoreline Christian School,"15201 Burnet Road, Austin, TX 78728",,Private,PK,30.4585441,-97.6923991
+373,A Step Ahead Childcare & Lc,"12041 Dessau Road #1009, Austin, TX 78754",,Private,PK,30.3807336,-97.6517927
+374,Green Hills Child Care Center,"15409 Fm 620 N, Austin, TX 78717",,Private,PK,30.4832551,-97.7376695
+375,Jazz & Gym Day Care,"15506 Clara Van St, Austin, TX 78734",,Private,PK,30.366474,-97.952968
+376,Acc-Garza Child Development,"1600 Chicon Street, Austin, TX 78702",,Private,PK,30.2773093,-97.7211962
+377,Ymca Day Care-Saill,"1611 Headway Circle, Austin, TX 78754",,Private,PK,30.333626,-97.6815834
+378,Live Oak Community Montessori,"16201 Pool Canyon Rd, Austin, TX 78734",,Private,PK,30.419994,-97.9290238
+379,Growing Imaginations Lc,"1711 Fortview Road, Austin, TX 78704",,Private,PK,30.2294549,-97.7849311
+380,Infant-Parent Program-Eci,"1717 West 10th Street, Austin, TX 78703",,Private,PK,30.2792314,-97.7625813
+381,Open Door Central Pre-School,"1717 West 10th Street, Austin, TX 78703",,Private,PK,30.2792314,-97.7625813
+382,Austins Imagination Station Lc,"1805 Camas Drive, Austin, TX 78728",,Private,PK,30.4429935,-97.6714148
+383,Children's World Learning Center 599,"1921 Cedar Bend Drive, Austin, TX 78758",,Private,PK,30.4078882,-97.6981643
+384,House Of Little Angels,"735 Turtle Creek Boulevard, Austin, TX 78745",,Private,PK,30.2031007,-97.7853266
+385,Advantage Preparatory School,"1908 Chicon St, Austin, TX 78722",,Private,PK,N/A,N/A
+386,Gethsemane Lutheran Child Care,"200 West Anderson Lane, Austin, TX 78752",,Private,PK,30.3453059,-97.7056807
+387,Baptist Community Center,"2000 East 2nd Street, Austin, TX 78702",,Private,PK,30.2577972,-97.7229077
+388,Stepping Stone 5 Day Care,"1910 Justin Lane, Austin, TX 78757",,Private,PK,30.3442155,-97.7333002
+389,Travis Hts Extend A Day Care,"2010 Alameda Drive, Austin, TX 78704",,Private,PK,30.2415692,-97.7459465
+390,Capital School of Austin,"2011 W Koenig Ln, Austin, TX 78756",,Private,PK,30.3336895,-97.7390697
+391,Escuela Montessori De Montopol,"2013 Montopolis Drive, Austin, TX 78741",,Private,PK,30.223941,-97.7031053
+392,Little Dude's Learning Center,"Po Box 18027, Austin, TX 78760",,Private,PK,30.214026,-97.7342611
+393,Southside Day Care,"208 E Live Oak St, Austin, TX 78704",,Private,PK,30.2412999,-97.751025
+394,Extend A Care-Baty,"2101 Faro Drive, Austin, TX 78741",,Private,PK,30.2270684,-97.7128148
+395,University Baptist Child Development Center,"2107 San Antonio St, Austin, TX 78705",,Private,PK,30.2846417,-97.7425475
+396,Park Bend Health Child Care Center,"2122 Park Bend Dr, Austin, TX 78758",,Private,PK,30.4090781,-97.7024652
+397,St Mark's Episcopal Day School,"2128 Barton Hills Drive, Austin, TX 78704",,Private,PK,30.2534746,-97.7857444
+398,Escuelita Del Alma Learning Center,"3109 North Interstate Highway 35, Austin, TX 78722",,Private,PK,30.2892974,-97.7225165
+399,Lakeway Church Christian Pre-School,"2203 Lakeway Boulevard, Austin, TX 78734",,Private,PK,30.3568476,-97.9809511
+400,University Of Texas Cdc,"2205 Comal Street, Austin, TX 78722",,Private,PK,30.2829016,-97.7252424
+401,Langford Extend A Care Dc,"2206 Blue Meadow Drive, Austin, TX 78744",,Private,PK,30.1820835,-97.7633689
+402,All Austin Coop Nursery School,"2301 Hancock Drive, Austin, TX 78756",,Private,PK,30.3241786,-97.7430581
+403,Berkeley Methodist Child Care,"2407 Berkeley Avenue, Austin, TX 78745",,Private,PK,30.2095354,-97.8084882
+404,Uumc Early Childhood Center,"2409 Guadalupe Street, Austin, TX 78705",,Private,PK,30.2881122,-97.7411171
+405,Sammys House Child Development Center,"2415 Twin Oaks Drive, Austin, TX 78757",,Private,PK,30.3419726,-97.7400827
+406,First Class Child Devt Center,"2505 Lark Glen Lane, Austin, TX 78748",,Private,PK,30.1560238,-97.8436155
+407,South Austin Head Start,"2508 Durwood Street, Austin, TX 78704",,Private,PK,30.2392406,-97.7600906
+408,Kid's Are First,"2515 and 2517 Enfield Rd, Austin, TX 78703",,Private,PK,30.2895708,-97.7711185
+409,Childs Day,"2525 Wallingwood Drive #100, Austin, TX 78746",,Private,PK,30.2636575,-97.7841224
+410,New Generation Day Care,"2600 South 1st Street, Austin, TX 78704",,Private,PK,30.2391582,-97.7618042
+411,Tarrytown Baptist Pre-School,"2601 Exposition Blvd, Austin, TX 78703",,Private,PK,30.3006217,-97.7651223
+412,Esther's Day Care,"2601 Rogge Ln, Austin, TX 78723",,Private,PK,30.3053836,-97.6836826
+413,Extend A Care-Campbell,"Po Box 6340, Austin, TX 78762",,Private,PK,30.2616427,-97.7221996
+414,Faith United Methodist Pre-School,"2701 South Lamar Boulevard, Austin, TX 78704",,Private,PK,30.2442717,-97.7797195
+415,Harte-Hanks Child Care,"2800 Wells Branch Parkway, Austin, TX 78728",,Private,PK,30.4426901,-97.689337
+416,Habibi's Hutch Natural Child,"2004 Bert Avenue, Austin, TX 78704",,Private,PK,30.2333798,-97.7867599
+417,First English Luth Child Center,"3001 Whitis Avenue, Austin, TX 78705",,Private,PK,30.2954342,-97.738868
+418,Covenant Cooperative Pre-School,"3003 Northland Drive, Austin, TX 78757",,Private,PK,30.3347544,-97.7525447
+419,Soraya's Child Care,"3012 Portola Court, Austin, TX 78738",,Private,PK,30.3106416,-97.9234345
+420,St David's Episcopal Day Schoo,"301 East 8th Street, Austin, TX 78701",,Private,PK-K,30.2685025,-97.739164
+421,Sunshine Learning Center,"7202 Dee Street, Austin, TX 78745",,Private,PK,30.1938443,-97.7954525
+422,Star Montessori,"3101 Howard Lane, Austin, TX 78728",,Private,PK,30.438451,-97.695051
+423,Westminster Presbyterian Day School,"3208 Exposition Boulevard, Austin, TX 78703",,Private,PK,30.308125,-97.763235
+424,Eanes Child Development Center,"3301 Pinnacle Road, Austin, TX 78746",,Private,PK,30.2691605,-97.8048688
+425,Austin Community College Child,"5930 Middle Fiskville Road, Austin, TX 78752",,Private,PK,30.3227247,-97.7125329
+426,Butterfly Christian Pre-School,"3525 Bee Caves Road, Austin, TX 78746",,Private,PK,30.276167,-97.805407
+427,St James Episcopal School,"1941 Webberville Road, Austin, TX 78721",,Private,PK-K,30.2826886,-97.6731332
+428,Bethany Lutheran Pre-School,"3701 West Slaughter Lane, Austin, TX 78749",,Private,PK,30.1848942,-97.8548651
+429,Town and Country Montessori,"3801 Keats Dr, Austin, TX 78704",,Private,PK,30.2361939,-97.7867372
+430,Town & Country Children's Mont,"3801 Keats Drive, Austin, TX 78704",,Private,PK-K,30.2361939,-97.7867372
+431,Future Stars Child Development Center,"3819 S Interstate 35, Austin, TX 78741",,Private,PK,30.2194416,-97.7489257
+432,Starbright Pre-School,"3900 Valley View Road, Austin, TX 78704",,Private,PK,30.2335915,-97.7836637
+433,Mrs Bolins Day Care,"3901 Peak Lookout Drive, Austin, TX 78738",,Private,PK,30.3271833,-97.9749481
+434,Child Development Center,"3901 Shoal Creek Boulevard, Austin, TX 78756",,Private,PK,30.3081556,-97.7472105
+435,Aisd-Barrington Child Care Center,"400 Cooper Drive, Austin, TX 78753",,Private,PK,30.3605079,-97.6966524
+436,Roz-Mina Montessori,"4001 Manchaca Road, Austin, TX 78704",,Private,PK,30.233487,-97.785357
+437,Elsass Academy-Westlake,"4015 Bee Caves Road, Austin, TX 78746",,Private,PK,30.281883,-97.810155
+438,Extend A Care-Reilly,"405 Denson Drive, Austin, TX 78752",,Private,PK,30.3279913,-97.7200233
+439,St John's Lutheran Child Care,"409 West Ben White Boulevard, Austin, TX 78704",,Private,PK,30.2244494,-97.7678822
+440,Casa Montessori Child Development,"40b Atlantic Street, Austin, TX 78703",,Private,PK,30.3692541,-97.9953988
+441,Extend A Care-Norman,"4101 Tannehill Lane, Austin, TX 78721",,Private,PK,30.2821828,-97.6721104
+442,Children's Discovery Center,"4112 Duval Street, Austin, TX 78751",,Private,PK-K,30.3034736,-97.7272086
+443,Riverbend Christian School Cdc,"4214 North Capital of Texas Highway, Austin, TX 78746",,Private,PK,30.3418005,-97.8040886
+444,Childrens Center -Austin,"4308 North Quinlan Park Road #100, Austin, TX 78732",,Private,PK,30.3832492,-97.8843652
+445,Convenant United Methodist,"4410 Duval Road, Austin, TX 78727",,Private,PK,30.4135831,-97.7320614
+446,Woodlawn Baptist Child Development Center,"4600 Manchaca Rd, Austin, TX 78745",,Private,PK,30.2270265,-97.7911851
+447,Appletree Learning Center,"4630 West Gate Boulevard, Austin, TX 78745",,Private,PK,30.2298788,-97.8014073
+448,Stepping Stone Pre-School Xvii,"4900 Mueller Boulevard, Austin, TX 78723",,Private,PK,30.303579,-97.7071973
+449,Little Dudes-Maufrais,"Po Box 18027, Austin, TX 78760",,Private,PK,30.214026,-97.7342611
+450,Ofelia's Day Care Center,"5003 Allyson Court, Austin, TX 78744",,Private,PK,30.1985602,-97.7449072
+451,Little People Development Center,"5006 Crestmont Drive, Austin, TX 78756",,Private,PK,30.3231782,-97.742034
+452,Dessau's Little Feet Child Care Center,"508 E Howard Ln, Austin, TX 78753",,Private,PK,30.4175182,-97.6511544
+453,Lil Darling's South Day Care,"510 Clarke St, Austin, TX 78745",,Private,PK,30.2255972,-97.7693863
+454,Lala's Day Care,"510 Powell Circle, Austin, TX 78704",,Private,PK,30.235099,-97.7629487
+455,Marywood Child Development Center,"510 W 26th St, Austin, TX 78705",,Private,PK,30.2909302,-97.7424271
+456,Child Inc Dove Springs Eec,"5106 Village Square Drive, Austin, TX 78744",,Private,PK,30.1886755,-97.7430555
+457,Light of the World Child Development Center,"519 Thompson Ln, Austin, TX 78742",,Private,PK,30.2372272,-97.6849374
+458,Shephard Hills Presbyterian Pre-School,"5226 West William Cannon Drive, Austin, TX 78749",,Private,PK,30.2249339,-97.8530658
+459,Houston Extend A Care Dc,"5409 Ponciana Drive, Austin, TX 78744",,Private,PK,30.1964677,-97.7550709
+460,Widen-Extend-A Care,"Po Box 6340, Austin, TX 78762",,Private,PK,30.2616427,-97.7221996
+461,Barton Creek Child Development Center,"5805 Travis Cook Road, Austin, TX 78735",,Private,PK,30.2567623,-97.8894723
+462,Barton Creek Child Development Center,"5611 Travis Cook Rd, Austin, TX 78735",,Private,PK,30.2577819,-97.8883871
+463,Little Red Schoolhouse,"5621 Emerald Forest Dr, Austin, TX 78745",,Private,PK,30.2097794,-97.7872714
+464,Little Folk's Nursery,"Po Box 141665, Austin, TX 78714",,Private,PK,30.2974509,-97.7670172
+465,Happy Kids Day Care,"5709 Manor Road, Austin, TX 78723",,Private,PK,30.3052895,-97.6804297
+466,Trinity Presbyterian Child Development Center,"5801 Westminster Drive, Austin, TX 78723",,Private,PK,30.3122573,-97.6904167
+467,Skybridge Academy,"13317 Fitzhugh Rd, Austin, TX 78736",,Private,12-Jun,30.2316408,-98.0011837
+468,Little Blessings Day Care Center,"5804 Brook Valley Drive, Austin, TX 78724",,Private,PK,30.3069164,-97.6533221
+469,Coburn's Family Day Care,"5805 Sierra Madre, Austin, TX 78759",,Private,PK,30.4185281,-97.7546468
+470,Children's Courtyard Child Care Center,"5914 West William Cannon Drive, Austin, TX 78749",,Private,PK,30.2289428,-97.8615648
+471,Circle C Child Development Center,"5917 La Crosse Avenue, Austin, TX 78739",,Private,PK,30.1925396,-97.884473
+472,Lake Hills Montessori,"600 Cuernavaca Drive North, Austin, TX 78733",,Private,PK-K,30.331038,-97.8701719
+473,Little Angel's Day Care,"6006 Cameron Road, Austin, TX 78723",,Private,PK,30.3178086,-97.6994755
+474,St Marks Children's Day Out,"601 West Braker Lane, Austin, TX 78753",,Private,PK,30.3800306,-97.685405
+475,Emerald Wood Kindercare,"610 Emerald Wood Drive, Austin, TX 78745",,Private,PK,30.2132049,-97.7787758
+476,Wesley School,"6100 Berkman Drive, Austin, TX 78723",,Private,PK,30.3159195,-97.6925756
+477,Oak Hill Extend A Care Dc,"Po Box 6340, Austin, TX 78762",,Private,PK-K,30.2616427,-97.7221996
+478,Spicewood Country School,"6102 Spicewood Springs Road, Austin, TX 78759",,Private,PK,30.3912713,-97.7744587
+479,Bright Horizons,"9117 Lantana Way, Austin, TX 78749",,Private,PK,30.2085001,-97.8799005
+480,Seek & Say Enrichment Dcc,"6123 Farm-to-Market 969, Austin, TX 78724",,Private,PK-K,30.2848141,-97.6632293
+481,Ymca-Pre-School,"6219 Oakclaire Drive, Austin, TX 78735",,Private,PK,30.236324,-97.8536248
+482,Whitebird Montessori School,"9000 Manchaca Road, Austin, TX 78748",,Private,PK-K,30.1824402,-97.8193665
+483,Pleasant Hill Extend Day Care,"Po Box 6340, Austin, TX 78762",,Private,PK,30.2616427,-97.7221996
+484,Hope Lutheran Head Start,"6414 North Hampton Drive, Austin, TX 78723",,Private,PK,30.3145771,-97.6814543
+485,Hand In Hand Day Care,"6420 Hart Ln, Austin, TX 78731",,Private,PK,30.3450839,-97.7533435
+486,Kindercare,"6434 South Congress Avenue, Austin, TX 78745",,Private,PK,30.1958766,-97.7782894
+487,Abundant Life Learning Center,"6510 Berkman Drive, Austin, TX 78723",,Private,PK,30.3187422,-97.6901025
+488,Faith Lutheran Cdc,"6600 Woodrow Avenue, Austin, TX 78757",,Private,PK,30.3379155,-97.7285674
+489,French Hall Academy,"6606 Sandshof Drive, Austin, TX 78724",,Private,PK,30.2986524,-97.6459311
+490,Primrose School Of Four Points,"6606 Sitio Del Rio Boulevard, Austin, TX 78730",,Private,PK,30.391491,-97.8432546
+491,Stepping Stone School,"6616 McNeil Drive, Austin, TX 78729",,Private,PK,30.4391168,-97.7565243
+492,Brentwood Extend A Care,"6700 Arroyo Seco, Austin, TX 78757",,Private,PK-K,30.3400761,-97.7314123
+493,Jordan Extend A Care Dc,"Po Box 6340, Austin, TX 78762",,Private,PK,30.2616427,-97.7221996
+494,Tutor Time Child Care Learning Center,"6801 Dallas Drive, Austin, TX 78729",,Private,PK,30.4494105,-97.7472226
+495,Country Home Learning Center,"6900 Escarpment Boulevard, Austin, TX 78749",,Private,PK-K,30.229963,-97.8656649
+496,International Montessori School,"7020 Village Center Drive, Austin, TX 78731",,Private,PK-K,30.3528002,-97.7566807
+497,My Friend's House,"Village Center Drive, Austin, TX 78731",,Private,PK,30.3528665,-97.7560309
+498,Reagan Child Development Center,"7104 Berkman Drive, Austin, TX 78752",,Private,PK,30.3241886,-97.6913511
+499,Westlake Hills Pre-School,"7127 Bee Cave Road, Austin, TX 78746",,Private,PK,30.3030601,-97.8424088
+500,Lake Austin Montessori,"715 Hearn St, Austin, TX 78703",,Private,PK,30.281294,-97.7713911
+501,Child Craft Pre-School,"808 West 30th Street, Austin, TX 78705",,Private,PK,30.2984907,-97.7453545
+502,Twin Crest Child Development Center,"7204 Twin Crest Dr, Austin, TX 78752",,Private,PK,30.3354,-97.7080137
+503,Abiding Love Child Care Center,"7210 Brush Country Road, Austin, TX 78749",,Private,PK,30.2183341,-97.8455533
+504,Sanchez Extend A Care Dc,"Po Box 6340, Austin, TX 78762",,Private,PK,30.2616427,-97.7221996
+505,Strickland After School,"Po Box 150413, Austin, TX 78715",,Private,PK,30.21,-97.8
+506,Knights And Lassies,"7501 Blessing Avenue, Austin, TX 78752",,Private,PK,30.3321338,-97.6926757
+507,Rosie's Day Care,"7512 Cameron Road, Austin, TX 78752",,Private,PK-K,30.3307409,-97.6885355
+508,Crestview Mothers Morning Out,"7600 Wood Row, Austin, TX 78757",,Private,PK,30.3479742,-97.7238852
+509,Palm Extend A Care Day Care,"7601 Dixie Drive, Austin, TX 78744",,Private,PK,30.1648241,-97.7436728
+510,Corner School,"12007 Research Boulevard, Austin, TX 78759",,Private,PK,30.4264779,-97.7515767
+511,Stepping Stone Pre-School 12,"1910 Justin Lane, Austin, TX 78757",,Private,PK,30.3442155,-97.7333002
+512,Twin Oaks Montessori School,"7804 Northwest Drive, Austin, TX 78757",,Private,PK-K,30.3508106,-97.7217885
+513,Oak Hill Pre-School,"7815 U.S. 290, Austin, TX 78736",,Private,PK,30.227259,-97.885605
+514,First Presbyterian Day School,"8001 Mesa Drive, Austin, TX 78731",,Private,PK,30.3694154,-97.7579585
+515,Child Craft Schools,"800 West 30th Street, Austin, TX 78705",,Private,PK,30.2983674,-97.7451256
+516,Generations Child Care,"8203 Sam Rayburn Drive, Austin, TX 78753",,Private,PK,30.3462792,-97.6996946
+517,Fountain Plaza Head Start,"825 East 53rd 1/2 Street, Austin, TX 78751",,Private,PK,30.3141464,-97.7133392
+518,Stepping Stone School Ii,"8419 Bowling Green Drive, Austin, TX 78757",,Private,PK,30.3656044,-97.7269785
+519,Elsass Academy,"Houston Street, Austin, TX 78724",,Private,PK,30.3261097,-97.7340004
+520,Decker Child Development Center,"8500 Decker Ln, Austin, TX 78724",,Private,PK,30.311619,-97.616897
+521,Discovery School,"8600 White Cliff Drive #3, Austin, TX 78759",,Private,PK,30.3938811,-97.7792634
+522,Cedar Corporation,"8605 Cross Park Dr, Austin, TX 78754",,Private,PK,30.34162,-97.6763411
+523,North Oaks Country Day Care,"8830 Cainwood Lane, Austin, TX 78729",,Private,PK,30.4558912,-97.7732485
+524,School of Blooming Flowers DC,"8906 Wall St, Austin, TX 78754",,Private,PK,30.3425572,-97.6720045
+525,Austin Junior Academy,"9063 Research Blvd, Austin, TX 78758",,Private,PK,30.3745049,-97.727227
+526,Sonshine School,"9300 Farm to Market 2244, Austin, TX 78733",,Private,PK,30.3185505,-97.8710646
+527,La Petite Academy 7529,"9315 Chisholm Lane, Austin, TX 78748",,Private,PK,30.174321,-97.8104663
+528,Casey Extend A Care Dc,"Po Box 6340, Austin, TX 78762",,Private,PK,30.2616427,-97.7221996
+529,Triumphant Love Luth Cdc,"9508 Great Hills Trail, Austin, TX 78759",,Private,PK,30.3947177,-97.7559426
+530,Kids Network,"9607 Brodie Lane, Austin, TX 78748",,Private,PK,30.1879376,-97.8462099
+531,Cedars Montessori School,"9704 Circle Drive, Austin, TX 78736",,Private,n/a,30.2439707,-97.9233712
+532,Kocurek Extend A Care Dc,"Po Box 6340, Austin, TX 78762",,Private,PK,30.2616427,-97.7221996
+533,Todays Child Daycare Center,"9908 Dessau Road, Austin, TX 78754",,Private,PK,30.3573264,-97.6722448
+534,The Greenwood School,"8319 Haskel Drive, Austin, TX 78736",,Private,PK,30.2324769,-97.8999705
+535,University Of Tx Child Care Center,"Ssw 2400, Austin, TX 78713",,Private,PK,30.2720098,-97.7408639
+536,"Integrity Academy at Casa de Luz, Center for Integral Studies ","1701 Toomey Road, Austin, TX 78704",,Private,PK-5,30.2644335,-97.7616436
+537,Bluebonnet Montessori School of Lakeway,"15099 Debba Drive, Austin, TX 78734",,Private,PK-3,30.3733212,-97.9384157
+538,Extend A Care 4 Kids,"55 North Interstate Highway 35, Austin, TX 78702",,Private,PK,30.2561505,-97.7360282
+539,Little Angels Day Care,"4010 Long Champ Drive #23, Austin, TX 78746",,Private,PK-K,30.338275,-97.802711
+540,Bright Horizons Family Center at Braker Lane,"2411 W. Braker Lane, Austin, TX 78758",,Private,PK,30.3895965,-97.7176266
+541,Southwest Austin Middle School ,"4021 So. Loop 360, Austin, TX 78704",,Private,8-Jun,30.3191827,-97.7253651
+542,Helping Hand,"3804 Avenue B, Austin, TX 78751",,Public charter,K-7,30.3024829,-97.7365367
+543,Travis County Day School,"8011 Cameron Road, Austin, TX 78754",,Public district,12-Jun,30.3360466,-97.6836598
+544,Alternative Learning Center,"900 Neal Street, Austin, TX 78702",,Public district,12-Jun,30.268435,-97.710069
+545,Daep- El,"906 West Milton Street, Austin, TX 78704",,Public district,PK-6,30.2503357,-97.7596416
+546,El Daep,"13414 Broadmeade Avenue, Austin, TX 78729",,Public district,K-5,30.4707529,-97.7818152
+547,Travis County J J A E P,"1111 West 6th Street, Austin, TX 78703",,Public district,K-12,30.271564,-97.756538
+548,Uphaus Early Childhood Center,"5200 Freidrich Lane, Austin, TX 78744",,Public district,PK-K,30.2017379,-97.7558587
+549,Austin City Academy,"P.O. Box 92737, Austin, TX 78709",,Private,"K-3, 5-10, 12",30.23,-97.85
+550,Austin Montessori Great Northern Campus,"5006 Sunset Trail, Austin, TX 78745",,Private,PK-3,30.2276727,-97.8050501
+551,Capitol City Baptist Church,"1300 Redd St, Austin, TX 78745",,Private,K-6,30.2238376,-97.7822945
+552,Primrose School Of Four Points,"6606 Sitio Del Rio Boulevard, Austin, TX 78730",,Private,PK-K,30.391491,-97.8432546
+553,Oakmont School,"1510 Morrow St, Austin, TX 78757",,Private,K-12,30.3482305,-97.7245509
+554,The Goddard School - Austin,"2111 Frate Barker Road, Austin, TX 78748",,Private,PK,30.1490379,-97.8416879
+555,Primrose School-Shady Hollow,"12341 Brodie Lane, Austin, TX 78748",,Private,PK,30.1490055,-97.8544471
+556,Primrose School of Southwest Austin,"4920 Davis Lane, Austin, TX 78749",,Private,PK,30.2067935,-97.8588042
+557,The Magnolia School,"2903 Ranch Road 620, Austin, TX 78734",,Private,PK-8 & ungraded,30.3907089,-97.938702
+558,George Washington University Online High School ,"1701 N. Congress Avenue , Austin, TX 78701",,Private,12-Sep,30.279167,-97.7379783
+559,Clearview Sudbury School,"1507 Wilshire Blvd., Austin, TX 78722",,Private,K-12,30.295849,-97.7108374
+560,Veritas Academy,"4220 Monterey Oaks Blvd., Austin, TX 78749",,Private,K-12,30.2296304,-97.832448
+561,Adult Transition Services,"1020 Walsh Tarlton Lane, Austin, TX 78746",,Public district,12,30.2729502,-97.8019324
+562,Dobie Pk Center,"1200 East Rundberg Lane, Austin, TX 78753",,Public district,PK,30.354549,-97.679377
+563,Dell Children's Medical Center,"4900 Mueller Boulevard, Austin, TX 78723",,Public district,PK-12,30.303579,-97.7071973
+564,The Excel Center (For Adults),"1015 Norwood Park Boulevard, Austin, TX 78753",,Public charter,12-Sep,30.339098,-97.694073
+565,Wee Wisdom Preschool,"9905 Anderson Mill Rd., Austin, TX 78750",,Private,PK,30.4452331,-97.7967141
+566,YPW Spanish Immersion School,"3640 Bee Caves Rd, Austin, TX 78746",,Private,PK,30.2793378,-97.8059229
+567,St Dominic Savio Catholic High School,"9300 Neenah Avenue, Austin, TX 78717",,Private,12-Sep,30.4881991,-97.761839
+568,The Joule School,"3402 Little Elm Trail, Austin, TX 78752",,Private,PK-6,30.4626461,-97.8172921
+569,Lake Hills Montessori Bee Cave,"3930 Ranch Road 620 South, Austin, TX 78738",,Private,PK,30.3117071,-97.9496729
+570,Brentwood Oaks Development Preschool,"11908 North Lamar Blvd, Austin, TX 78753",,Private,PK,30.3906252,-97.6825188
+571,Country Home Learning Center,"13120 U.S. Hwy 183 North, Austin, TX 78750",,Private,PK,30.4401795,-97.781688
+572,International School of Texas,"4402 Hudson Bend Road, Austin, Texas 78734, Austin, TX 78734",,Private,PK-6,30.404557,-97.927911
+573,Grace Garden Pre-School,"2140 Allandale Road, Austin, TX 78756",,Private,PK,30.3354545,-97.7413726
+574,Ymca Mothers Day Out,"5807 McNeil Drive, Austin, TX 78729",,Private,PK,30.4460206,-97.7335313
+575,Ymca A/S Child Care Center-Caraway,"1402 East Cesar Chavez Street, Austin, TX 78702",,Private,PK,30.259313,-97.7302068
+576,Mias Day Care,"6606 Sunstrip Drive, Austin, TX 78745",,Private,PK,30.1954072,-97.7831881
+577,Relief Nursery-Central Texas,"2203 E Martin Luther King Jr Blvd, Austin, TX 78702",,Private,PK,30.2800786,-97.7182464
+578,Apples Greatest Beginnings 3,"8601 Vertex Boulevard, Austin, TX 78747",,Private,PK,30.1561136,-97.7520704
+579,Daily Bread Child Learning Center,"1104 East 12th Street, Austin, TX 78702",,Private,PK,30.2727152,-97.7285969
+580,Nature's Way Pre-School,"301 Nature Center Drive, Austin, TX 78746",,Private,PK,30.2721352,-97.774959
+581,Yours Mine & Our Kids Day Care,"510 Clarke Street, Austin, TX 78745",,Private,PK,30.2255972,-97.7693863
+582,Four Seasons Community Ps,"12504 Tomanet Trail, Austin, TX 78727",,Private,PK,30.4193263,-97.7006087
+583,Kid Spa Day Care-Austin,"5700 West Slaughter Lane #380, Austin, TX 78749",,Private,PK,30.2017357,-97.868314
+584,Maplewood Extend A Care Dc,"3808 Maplewood Avenue, Austin, TX 78722",,Private,PK,30.293337,-97.714901
+585,Habibis Hutch Pre-School,"2004 Bert Avenue, Austin, TX 78704",,Private,PK,30.2333798,-97.7867599
+586,Little Wonders Child Care Center 3,"9414 Parkfield Drive, Austin, TX 78758",,Private,PK,30.3686972,-97.7068425
+587,Escuelita Dance Day Care,"2302 Western Trails Boulevard, Austin, TX 78745",,Private,PK,30.2311373,-97.7933073
+588,Sunshine Educational Academy,"1808 Cedar Bend Drive, Austin, TX 78758",,Private,PK,30.4090753,-97.6937112
+589,Christies Learning Academy,"3506 Quiette Drive, Austin, TX 78754",,Private,PK,30.3347957,-97.6526891
+590,Mitchell Day Care,"12912 Margit Drive, Austin, TX 78729",,Private,PK,30.4463381,-97.7603504
+591,Vinklarek Day Care,"8806 Teresina Drive, Austin, TX 78749",,Private,PK,30.2003777,-97.8518742
+592,Grandmas Honeys Child Care Center,"202 Prince Drive, Austin, TX 78752",,Private,PK,30.3415358,-97.7069071
+593,Heaven Sent Child Care Center,"10526 Bilbrook Place, Austin, TX 78748",,Private,PK,30.1588923,-97.8157683
+594,Angela's Day Care,"6100 Woodhue Drive, Austin, TX 78745",,Private,PK,30.2077334,-97.7943473
+595,Loving Learning Montessori Dc,"1345 Neans Drive, Austin, TX 78758",,Private,PK,30.372751,-97.7034235
+596,Tia's Kids Cabin Day Care,"2221 Klattenhoff Drive, Austin, TX 78728",,Private,PK,30.4415321,-97.6828351
+597,Mr Darcy's Class,"8805 Tara Lane, Austin, TX 78737",,Private,6-Jan,30.2322272,-97.9179681
+598,Pint Size Playhouse Day Care,"9827 Briar Ridge Drive, Austin, TX 78748",,Private,PK,30.1780115,-97.830599
+599,Rosies Day Care 3,"5807 Wellington Drive, Austin, TX 78723",,Private,PK,30.3109982,-97.6877264
+600,Stepping Stones School,"1710 Richcreek Road, Austin, TX 78757",,Private,PK,30.3473862,-97.7271999
+601,Kinder Care Learning Center,"610 Emerald Wood Drive, Austin, TX 78745",,Private,PK,30.2132049,-97.7787758
+602,Bryker Woods Extend-A-Care,"Po Box 6340, Austin, TX 78762",,Private,PK,30.2616427,-97.7221996
+603,Wooten Extend-A-Care Dc,"1406 Dale Drive, Austin, TX 78757",,Private,PK,30.352928,-97.7191662
+604,Pillow Extend-A-Care,"Po Box 6340, Austin, TX 78762",,Private,PK,30.2616427,-97.7221996
+605,Woolridge Extend A Care,"1412 Norseman Terrace, Austin, TX 78758",,Private,PK,30.3649553,-97.7099315
+606,Club Z Day Care,"12741 Research Boulevard, Austin, TX 78759",,Private,PK,30.4339535,-97.7666575
+607,Kristens Kids Day Care,"1911 Mirabeau Street, Austin, TX 78727",,Private,PK,30.4175728,-97.6928832
+608,Kiddie Garden Learning Center,"8905 Splitarrow Drive, Austin, TX 78717",,Private,PK,30.5012041,-97.7441512
+609,Wanna Play Day Care,"14010 U.S. 183 #535, Austin, TX 78717",,Private,PK,30.4736815,-97.8007712
+610,University Of Texas Child Care Center,"1925 San Jacinto Boulevard, Austin, TX 78712",,Private,PK,30.2806764,-97.732507
+611,School In The Hills,"2900 North Quinlan Park Road #400, Austin, TX 78732",,Private,PK-K,30.3696494,-97.8929695
+612,Pee Dee Petes Playhouse Child Care Center,"11800 North Interstate Highway 35, Austin, TX 78753",,Private,PK,30.3841305,-97.6742143
+613,Overton Extend A Care Dc,"7201 Colony Loop Drive, Austin, TX 78724",,Private,PK,30.3001872,-97.6367011
+614,Hillcrest Extend A Care Child Care Center,"6910 East William Cannon Drive, Austin, TX 78744",,Private,PK,30.1654102,-97.7290982
+615,Gullett Pre-School,"6310 Treadwell Boulevard, Austin, TX 78757",,Private,PK,30.3436469,-97.7487409
+616,Capital City Kids Day Care 1,"13107 Dessau Road #300, Austin, TX 78754",,Private,PK,30.3988993,-97.6392958
+617,Blazier Extend A Care Dc,"8601 Vertex Boulevard, Austin, TX 78747",,Private,PK,30.1561136,-97.7520704
+618,Ta Brown Head Start,"505 West Anderson Lane, Austin, TX 78752",,Private,PK-K,30.344768,-97.7103433
+619,Blessing Beyond,"2102 Rosewood Avenue, Austin, TX 78702",,Private,PK,30.2701673,-97.7169277
+620,Capital Metro Cc & Learning,"624 North Pleasant Valley Road, Austin, TX 78702",,Private,PK,30.2590185,-97.7105755
+621,Two Steps Ahead Learning Center,"208 East Live Oak Street, Austin, TX 78704",,Private,PK,30.2412999,-97.751025
+622,Clubhouse For Kids Llc,"3601 West William Cannon Drive, Austin, TX 78749",,Private,PK,30.2149199,-97.8334484
+623,Milwood Pre-School,"12217 Cassady Drive, Austin, TX 78727",,Private,PK,30.4214596,-97.7194715
+624,St John Neuman Cath Pre-School,"5455 Bee Caves Road, Austin, TX 78746",,Private,PK,30.290578,-97.8237919
+625,West Oak Woods Baptist Pre-School,"Po Box 150098, Austin, TX 78715",,Private,PK,30.21,-97.8
+626,Cornerstone Mdo Child Care Center,"14829 Cordero Drive, Austin, TX 78717",,Private,PK,30.4898,-97.76634
+627,International Mont House Of Ch,"11124 Jollyville Road, Austin, TX 78759",,Private,PK-K,30.4071319,-97.7482817
+628,Extend A Care Ortega,"1135 Garland Avenue, Austin, TX 78721",,Private,PK,30.2699957,-97.6842797
+629,Lonestar Kids,"1510 Alegria Road, Austin, TX 78757",,Private,PK,30.3354459,-97.7324132
+630,Lake Travis Child Care Center,"15303 Kollmeyer Drive, Austin, TX 78734",,Private,PK,30.3705875,-97.9455567
+631,Tree Tops Too Learning Center,"1700 West 32nd Street, Austin, TX 78703",,Private,PK,30.304509,-97.7537908
+632,Grant Cdc Head Start,"1701 Kramer Lane, Austin, TX 78758",,Private,PK,30.3851973,-97.7042093
+633,Little Wonders Child Care Center,"2010 West Koenig Lane, Austin, TX 78756",,Private,PK-K,30.3345025,-97.7386445
+634,Little Explorers Child Care,"2313 Teri Road, Austin, TX 78744",,Private,PK,30.1993355,-97.7482866
+635,Tarrytown Childrens Center,"2614 Exposition Boulevard, Austin, TX 78703",,Private,PK,30.3021446,-97.7663357
+636,Leaps N Bounds,"7010 Village Center Drive, Austin, TX 78731",,Private,PK,30.352613,-97.7569299
+637,Extend A Care Head Start-Galindo,"3800 South 2nd Street, Austin, TX 78704",,Private,PK,30.2295854,-97.771885
+638,Patton Child Development Center,"6001 Westcreek Drive, Austin, TX 78749",,Private,PK,30.2317997,-97.8455255
+639,Happy Hearts Bilingual Child Care Center I,"6615 Manchaca Road, Austin, TX 78745",,Private,PK-K,30.2059351,-97.8059699
+640,Doss Elementary Third Base Program,"3908 Avenue B #1300, Austin, TX 78751",,Private,PK,30.3040718,-97.7354733
+641,Brodie Cdc Head Start,"8105 Brodie Lane, Austin, TX 78745",,Private,PK,30.2020076,-97.8374771
+642,Austin Childrens Montesorri,"8807 Manchaca Road, Austin, TX 78748",,Private,PK-K,30.1836922,-97.8170433
+643,Montopolis Friendship Center,"Vargas Road, Austin, TX 78741",,Private,PK-K,30.2326253,-97.6947224
+644,Ochester Learning Center,"10500 Jollyville Road, Austin, TX 78759",,Private,PK,30.3982338,-97.7499813
+645,Westlake Child Care,"3924 Bee Caves Road, Austin, TX 78746",,Private,PK,30.2821608,-97.8092976
+646,Rosewoodzaragosa Head Start,"2800 Webberville Road, Austin, TX 78702",,Private,PK,30.2653394,-97.7105738
+647,Kids Campus Learning Center,"5710 McCarty Lane, Austin, TX 78749",,Private,PK-K,30.2321445,-97.8558824
+648,Blanton Head Start,"5408 Westminster Drive, Austin, TX 78723",,Private,PK,30.3069305,-97.6906309
+649,Tutor Time Canyon Creek Cc,"10321 Boulder Lane, Austin, TX 78726",,Private,PK,30.4292436,-97.8386317
+650,Johnson Day Care,"4811 Cottonwood Street, Austin, TX 78744",,Private,PK,30.1956892,-97.7331911
+651,Learn & Play Day Care,"8905 Bridgewood Trail, Austin, TX 78729",,Private,PK,30.4581618,-97.7724773
+652,Abc Childrens Learning Center,"12338 Cahone Trail, Austin, TX 78729",,Private,PK,30.4412597,-97.7659388
+653,Lauras Day Care,"8402 Roan Lane, Austin, TX 78736",,Private,PK,30.2380326,-97.8977835
+654,Mrs Tabs Day Care,"3007 Norwood Hill Road, Austin, TX 78723",,Private,PK,30.2989565,-97.6804124
+655,Tonis Fun Learning Center,"9102 Sautelle Lane, Austin, TX 78749",,Private,PK,30.2074944,-97.8786521
+656,Maria's Day Care Center,"8914 Georgian Drive, Austin, TX 78753",,Private,PK,30.356985,-97.6961461
+657,Capital City Kids 4 Dc & Lc,"13107 Dessau Road, Austin, TX 78754",,Private,PK,30.3988993,-97.6392958
+658,Zachgo Day Care,"10213 Stellar Cove, Austin, TX 78739",,Private,PK,30.1919007,-97.8759632
+659,Parmer Children's Mont School,"Po Box 160335, Austin, TX 78716",,Private,PK,30.2730973,-97.798582
+660,South Austin Karate Day Care,"10203 Old Manchaca Road, Austin, TX 78748",,Private,PK,30.1727229,-97.8302336
+661,Noahs Ark Pre-Sch-Park Hills,"900 S Mo Pac Expy, Austin, TX 78746",,Private,PK,30.2675908,-97.782197
+662,St Michaels Episcopal Day Care,"1500 North Capital of Texas Highway, Austin, TX 78746",,Private,PK,30.3191134,-97.8231473
+663,Primrose School-Sw Austin,"12341 Brodie Lane, Austin, TX 78748",,Private,PK,30.1490055,-97.8544471
+664,Oak Hill Spanish Learning Center,"6900 Raccoon Run, Austin, TX 78736",,Private,PK,30.2435938,-97.889817
+665,Teresas Home Day Care,"4704 Alta Loma Drive, Austin, TX 78749",,Private,PK,30.2071173,-97.8550646
+666,Room To Grow Day Care,"1807 Running Brook Drive, Austin, TX 78723",,Private,PK,30.3055482,-97.6945959
+667,My Wiggles & Giggles Child Care Center,"8411 Tyhurst Drive, Austin, TX 78749",,Private,PK,30.2121746,-97.8677957
+668,Baby Love Child Care Center,"4504 Bremner Drive, Austin, TX 78749",,Private,PK,30.1967656,-97.859437
+669,Green Sprout Pre-School,"1302 Berkshire Drive, Austin, TX 78723",,Private,PK,30.3180602,-97.6981984
+670,Austin Montessori School-A/S Pgrm,"5006 Sunset Trail, Austin, TX 78745",,Private,PK,30.2276727,-97.8050501
+671,Academic Beginnings Cdc,"Po Box 19497, Austin, TX 78760",,Private,PK,30.214026,-97.7342611
+672,Manor Child Care Center,"818 East 53rd Street, Austin, TX 78751",,Private,PK,30.3138918,-97.7141277
+673,Children's Courtyard Child Care Center,"10625 Bonaventure Drive, Austin, TX 78730",,Private,PK,30.3905938,-97.8468637
+674,Growing Tree Child Care Center,"2807 Robinson Avenue, Austin, TX 78722",,Private,PK,30.2866459,-97.7229457
+675,Open Door Pre-Sch-M Station,"2918 East Martin Luther King Junior Boulevard, Austin, TX 78702",,Private,PK,30.2822234,-97.7076992
+676,Eco-Kids Child Care Center,"8201 Cross Park Drive, Austin, TX 78754",,Private,PK,30.330679,-97.6669577
+677,Parmer Lane Pre-School Center,"12410 Tomanet Trail, Austin, TX 78758",,Private,PK,30.4179326,-97.7015334
+678,Academy Child Care Center-Howard Lane,"104 West Howard Lane, Austin, TX 78753",,Private,PK,30.41811,-97.657717
+679,Get Me Ready Learning Center,"3605 Adelphi Lane, Austin, TX 78727",,Private,PK,30.42049,-97.714464
+680,Empower Pre-School Center,"1825 Fortview Road #105, Austin, TX 78704",,Private,PK,30.230003,-97.7868333
+681,Plug & Play Child Care Center-Austin,"13343 North Highway 183 #200, Austin, TX 78750",,Private,PK,30.4458356,-97.7854553
+682,Abacus Pre-School Center-Austin,"14115 Avery Ranch Boulevard, Austin, TX 78717",,Private,PK-K,30.4938285,-97.788181
+683,Papa & Nanas Child Care Center,"11301 Hornsby Street, Austin, TX 78753",,Private,PK,30.3803451,-97.6831387
+684,Academia Pre-School Center,"1511 South Congress Avenue, Austin, TX 78704",,Private,PK,30.2481709,-97.7497155
+685,Bais Menachem Day Care Center,"2127 West Parmer Lane, Austin, TX 78727",,Private,PK,30.4165878,-97.698205
+686,Childrens Discovery Child Care Center,"3515 Convict Hill Road, Austin, TX 78749",,Private,PK,30.2109996,-97.8330463
+687,Kid-E-Shack Child Care Center-Lakeway,"2 Heatherbloom Lane, Austin, TX 78738",,Private,PK,30.342989,-97.994266
+688,Susys Day Care Center,"308 West William Cannon Drive, Austin, TX 78745",,Private,PK,30.1950417,-97.7836689
+689,All His Children Pre-School Center,"9725 Circle Drive, Austin, TX 78736",,Private,PK,30.2442199,-97.9251495
+690,Renaissance Academy,"14401 Owen-Tech Boulevard, Austin, TX 78728",,Private,PK,30.4349122,-97.6704568
+691,Stepping Stone Pre-School Xiv,"9405 Brodie Lane, Austin, TX 78748",,Private,PK,30.1900333,-97.8447268
+692,Crestview United Methodist Ps,"1300 Morrow Street, Austin, TX 78757",,Private,PK,30.3476405,-97.7231782
+693,Rosewood Oaks Primary Child Care Center,"2600 Rosewood Avenue, Austin, TX 78702",,Private,PK,30.2726873,-97.7062273
+694,Kids Ways Day Care Center,"9422 Brown Lane, Austin, TX 78754",,Private,PK,30.3500573,-97.6707877
+695,Victory Christian Child Care Center,"7625 North Interstate 35, Austin, TX 78752",,Private,PK,30.3368377,-97.698045
+696,Stepping Stone Pre-School Ix,"8121 Shoal Creek Boulevard, Austin, TX 78757",,Private,PK,30.3654055,-97.7385282
+697,Childs Way Creative Learning Center,"7212 Oak Meadow Drive, Austin, TX 78736",,Private,PK,30.2346198,-97.879031
+698,Westlake Methodist Pre-School Center,"1460 Redbud Trail, Austin, TX 78746",,Private,PK,30.2951027,-97.821186
+699,Athena Montessori Academy,"1503 Morgan Lane, Austin, TX 78704",,Private,PK-K,30.2292159,-97.7809869
+700,Austin's Pioneer Montessori School,"11124 Jollyville Road, Austin, TX 78759",,Private,PK-K,30.4071319,-97.7482817
+701,Bright Horizons Family Solutions,"6111 Davis Lane, Austin, TX 78749",,Private,PK-K,30.2109326,-97.87572
+702,Children's Courtyard,"4213 Spicewood Springs Road, Austin, TX 78759",,Private,PK-K,30.370336,-97.756713
+703,Children's Courtyard,"5914 West William Cannon Drive, Austin, TX 78749",,Private,PK-K,30.2289428,-97.8615648
+704,Hope Children's Center,"11512 Olson Drive, Austin, TX 78750",,Private,K,30.4453339,-97.8062206
+705,International Montessori House,"7020 Village Center Drive, Austin, TX 78731",,Private,PK-1,30.3528002,-97.7566807
+706,Primavera Montessori School,"1934 Berkeley Avenue, Austin, TX 78745",,Private,PK-5,30.2084629,-97.8036585
+707,Primrose School Of Shady Hollow,"12341 Brodie Lane, Austin, TX 78748",,Private,PK-K,30.1490055,-97.8544471
+708,Primrose School Of Southwest Austin,"4920 Davis Lane, Austin, TX 78749",,Private,PK-K,30.2067935,-97.8588042
+709,Prodigy Child Development Center,"2300 Cedar Bend Drive, Austin, TX 78758",,Private,PK-K,30.4126082,-97.7025539
+710,Scotish Rite Dyslexia Center,"12871 U.S. 183, Austin, TX 78750",,Private,5,30.4362112,-97.7719985
+711,Victory Christian Center School,"7625 South Interstate Highway 35, Austin, TX 78752",,Private,PK-12,30.3368377,-97.698045
+712,Athlos Leadership Academy- Austin,"3711 Shoreline Drive, Austin, TX 78728",,Public charter,PK-9,30.4575574,-97.6880011
+713,Austin STEM Academy,"3701 Kerbey Ln, Austin, TX 78731",,Private,PK,30.3075535,-97.7502937
+714,Lake Travis STEM Academy,"10625 RR 620 North, Austin, TX 78726",,Private,K-8,30.445681,-97.831311
+715,Indigo childcare,"4314 clarno dr, austin, TX 78749",,Private,PK,30.2111738,-97.8460745
+716,Fusion Academy Austin,"4701 Bee Caves Road, Austin, TX 78746",,Private,12-Jun,30.2875407,-97.8163028
+717,Altamira Academy,"6405 Interstate 35 Frontage Road, Austin, TX 78744",,Public charter,PK-2,30.1914238,-97.7671351
+718,Long-View Micro-School,"1201 West 24th Street, Austin, TX 78705",,Private,5-Feb,30.2881663,-97.7507696
+719,"The Children's Courtyard  of Austin, TX","11718 Metric Blvd, Austin, TX 78758",,Private,PK-K,30.398058,-97.705804
+720,Ko School + Incubator,"1701 Toomey Road, Austin, TX 78704",,Private,12-Jun,30.2644335,-97.7616436
+721,The Goddard School - Steiner Ranch,"5145 North FM 620 Building H, Austin, TX 78732",,Private,PK-K,30.3877896,-97.8849583
+722,Austin Isd Child Development Center,"1111 West 6th Street, Austin, TX 78703",,Public district,PK,30.271564,-97.756538
+723,Austin Oaks,"1407 West Stassney Lane, Austin, TX 78745",,Public charter,12-Jun,30.2113495,-97.7926913
+724,Idea Rundberg Academy,"9504 North Interstate 35 Frontage Road, Austin, TX 78753",,Public charter,K-2,30.3609586,-97.6878049
+725,AESA Prep Academy,"14101 Canonade, Austin, TX 78737",,Private,12-Apr,30.199084,-98.00528
+726,Abrome,"10201 Aqua Azul Ct, Austin, TX 78733",,Private,"K-8, 10-12",30.3351773,-97.8764868
+727,Challenger School - Pond Springs,"13015 Pond Springs Road, Austin, TX 78729",,Private,PK-K,30.4410916,-97.7729022
+728,Challenger School - Avery Ranch,"15101 Avery Ranch Boulevard, Austin, TX 78717",,Private,PK-5,30.4977914,-97.7731229
+729,4Points Academy,"5145 Ranch Road 620 North, Austin, TX 78732",,Private,9-Jan,30.3895467,-97.8844814
+730,Joe Lee Johnson Elementary School,"2800 Sauls Drive, Austin, TX 78728",,Public district,K-5,30.4565503,-97.6817466
+731,Emergent Academy,"1044 Liberty Park Drive, Austin, TX 78746",,Private,"1-5, 7-8",30.2668719,-97.7899164
+732,Xplor Circle C,"5915 La Crosse Avenue, Austin, TX 78739",,Private,PK-K,30.191894,-97.8828981
+733,Xplor Anderson Mill,"9706 Anderson Mill Road, Austin, TX 78750",,Private,PK,30.4494756,-97.7935274
+734,Elements Preschool,"1503 W Koenig Ln, Austin, TX 78756",,Private,PK,30.3312413,-97.7328215

@@ -3,27 +3,37 @@ import pandas as pd
 
 
 def main():
+    cities = ["san-antonio", "dallas", "fort-worth"]
     url = 'https://maps.googleapis.com/maps/api/geocode/json'
 
-    data = pd.read_csv("texas_schools.csv")
-    addresses = data["address"]
-    locations = []
+    for city in cities:
 
-    for address in addresses:
-        try:
-            print("PARSING: {}".format(address))
+        print(" ##### CITY: {} #####".format(city))
 
-            params = {'sensor': 'false', 'address': address}
-            r = requests.get(url, params=params)
-            results = r.json()['results']
-            location = results[0]['geometry']['location']
-            locations.append("({},{})".format(location['lat'], location['lng']))
+        data = pd.read_csv(city + "_schools.csv")
+        addresses = data["address"]
+        latitudes = []
+        longitudes = []
 
-        except IndexError:
-            locations.append("N/A")
+        for address in addresses:
+            try:
+                print("PARSING: {}".format(address))
 
-    data["location"] = locations
-    data.to_csv("texas_schools.csv")
+                params = {'sensor': 'false', 'address': address}
+                r = requests.get(url, params=params)
+                results = r.json()['results']
+                location = results[0]['geometry']['location']
+                latitudes.append(location['lat'])
+                longitudes.append(location['lng'])
+
+            except IndexError:
+                longitudes.append("N/A")
+                latitudes.append("N/A")
+
+        data["lat"] = latitudes
+        data["long"] = longitudes
+
+        data.to_csv(city + "_schools.csv")
 
 
 if __name__ == "__main__":
