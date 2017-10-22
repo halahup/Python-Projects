@@ -138,7 +138,7 @@ def main():
 
     for issue in issues:
 
-        print '{:<50}  {:<7}  {:<5}  {:<0}   {:<0}'.format(issue.name,
+        print'{:<50}  {:<7}  {:<5}  {:<0}   {:<0}'.format(issue.name,
                                                            issue.price,
                                                            math.ceil((float(issue.dividend_per_share) /
                                                                       float(issue.price.replace('$', '')) * 100) * 100) / 100,
